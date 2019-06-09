@@ -1,0 +1,97 @@
+{
+  "$id": "3992",
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "4f1f3b96-57c5-4302-8a85-d4af1a6b8847",
+  "Name": "2019-06-09 21-16-26",
+  "MatchName": "2019-06-09 21-04-36",
+  "DatabaseIndex": "2019-06-09 21-16-26",
+  "Players": [
+    {
+      "$id": "3993",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
+    },
+    {
+      "$id": "3994",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456",
+      "DatabaseIndex": "76561197999418456"
+    },
+    {
+      "$id": "3995",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316",
+      "DatabaseIndex": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "3996",
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "3997",
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316",
+          "DatabaseIndex": "76561197998909316"
+        }
+      ],
+      "Score": 8
+    },
+    {
+      "$id": "3998",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "3999",
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590",
+          "DatabaseIndex": "76561197998646590"
+        }
+      ],
+      "Score": 15
+    },
+    {
+      "$id": "4000",
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "4001",
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456",
+          "DatabaseIndex": "76561197999418456"
+        }
+      ],
+      "Score": 8
+    }
+  ],
+  "TimeEnded": "2019-06-09T21:16:46.5347658+02:00",
+  "TimeStarted": "2019-06-09T21:16:26.2015135+02:00",
+  "Winner": {
+    "$ref": "3998"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
