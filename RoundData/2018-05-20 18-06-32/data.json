@@ -1,0 +1,83 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "b0704fc1-60c6-41a7-9b97-995d9f5f8b55",
+  "Name": "2018-05-20 18-06-32",
+  "MatchName": "2018-05-20 17-55-08",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Player 3",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "TimeEnded": "2018-05-20T16:06:46.9740808+00:00",
+  "TimeStarted": "2018-05-20T16:06:32.284087+00:00",
+  "Winner": {
+    "$ref": "5"
+  },
+  "YoutubeUrl": "YI4Cg9e6pzg",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "8",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572435862156214292/2018-05-20_18-06-32.mp4"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "da443459-9393-482b-9193-cfbe073dd515",
+  "Name": "2019-05-23 21-46-20",
+  "MatchName": "2019-05-23 21-34-26",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "Score": 3
+    },
+    {
+      "$id": "6",
+      "HasHat": true,
+      "HatName": "Pulpy",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "Score": 11
+    },
+    {
+      "$id": "7",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "Score": 14
+    }
+  ],
+  "TimeEnded": "2019-05-23T21:46:42.111999+02:00",
+  "TimeStarted": "2019-05-23T21:46:20.9538951+02:00",
+  "Winner": {
+    "$ref": "5"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

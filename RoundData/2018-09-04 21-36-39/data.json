@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "ac7cae4a-0cd1-47bf-bc21-024faad57773",
+  "Name": "2018-09-04 21-36-39",
+  "MatchName": "2018-09-04 21-23-18",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "Player 3",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 3
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Hearts",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 10
+    }
+  ],
+  "TimeEnded": "2018-09-04T19:37:02.8491674+00:00",
+  "TimeStarted": "2018-09-04T19:36:39.8243629+00:00",
+  "Winner": {
+    "$ref": "9"
+  },
+  "YoutubeUrl": "mukb_1WnEdo",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572736968014954516/2018-09-04_21-36-39.mp4"
+    }
+  ]
+}

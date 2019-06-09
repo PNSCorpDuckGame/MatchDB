@@ -1,0 +1,78 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "4a7a07ed-6d0d-4e4b-94b9-4d1d7ba7d899",
+  "Name": "2018-09-20 21-46-03",
+  "MatchName": "2018-09-20 21-33-52",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 164075545968115713,
+      "Name": "zurator",
+      "NickName": null,
+      "UserId": "76561198021148954"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "Score": 8
+    },
+    {
+      "$id": "6",
+      "HasHat": true,
+      "HatName": "Chancy",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "Score": 13
+    },
+    {
+      "$id": "7",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "Score": 13
+    }
+  ],
+  "TimeEnded": "2018-09-20T21:46:13.3353344+02:00",
+  "TimeStarted": "2018-09-20T21:46:03.6671789+02:00",
+  "Winner": {
+    "$ref": "5"
+  },
+  "YoutubeUrl": "-s-fsdf03OY",
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

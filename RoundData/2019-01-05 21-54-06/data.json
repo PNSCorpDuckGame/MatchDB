@@ -1,0 +1,100 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "cd7c8c31-a4b0-453e-b8f4-ef354b9829b5",
+  "Name": "2019-01-05 21-54-06",
+  "MatchName": "2019-01-05 21-37-17",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 167252066773893120,
+      "Name": "stevie wonder",
+      "NickName": "Raptor",
+      "Team": null,
+      "UserId": "76561197993900183"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Pompadour",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Meeee",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 12
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 14
+    }
+  ],
+  "TimeEnded": "2019-01-05T21:54:27.7914314+01:00",
+  "TimeStarted": "2019-01-05T21:54:06.1268868+01:00",
+  "Winner": {
+    "$ref": "6"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

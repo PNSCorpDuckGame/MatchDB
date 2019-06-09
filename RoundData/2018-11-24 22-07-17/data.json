@@ -1,0 +1,60 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "W",
+  "Name": "2018-11-24 22-07-17",
+  "MatchName": "2018-11-24 21-58-36",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 164075545968115713,
+      "Name": "zurator",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561198021148954"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "4",
+      "hasHat": true,
+      "hatName": "Chancy",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 9
+    }
+  ],
+  "TimeEnded": "2018-11-24T22:07:39.7290437+01:00",
+  "TimeStarted": "2018-11-24T22:07:17.5888054+01:00",
+  "Winner": {
+    "$ref": "5"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

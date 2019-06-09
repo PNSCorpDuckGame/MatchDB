@@ -1,0 +1,72 @@
+{
+  "$id": "210",
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "95a5e19c-9615-4853-94c2-f02a692f279e",
+  "Name": "2019-06-07 20-24-10",
+  "MatchName": "2019-06-07 20-24-01",
+  "DatabaseIndex": "2019-06-07 20-24-10",
+  "Players": [
+    {
+      "$id": "211",
+      "DiscordId": 0,
+      "Name": "Player1",
+      "NickName": null,
+      "UserId": "PLAYER1",
+      "DatabaseIndex": "PLAYER1"
+    },
+    {
+      "$id": "212",
+      "DiscordId": 0,
+      "Name": "Player2",
+      "NickName": null,
+      "UserId": "PLAYER2",
+      "DatabaseIndex": "PLAYER2"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "213",
+      "HasHat": false,
+      "HatName": "Player 1",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "214",
+          "DiscordId": 0,
+          "Name": "Player1",
+          "NickName": null,
+          "UserId": "PLAYER1",
+          "DatabaseIndex": "PLAYER1"
+        }
+      ],
+      "Score": 2
+    },
+    {
+      "$id": "215",
+      "HasHat": false,
+      "HatName": "Player 2",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "216",
+          "DiscordId": 0,
+          "Name": "Player2",
+          "NickName": null,
+          "UserId": "PLAYER2",
+          "DatabaseIndex": "PLAYER2"
+        }
+      ],
+      "Score": 0
+    }
+  ],
+  "TimeEnded": "2019-06-07T20:24:35.1138929+02:00",
+  "TimeStarted": "2019-06-07T20:24:10.5201323+02:00",
+  "Winner": {
+    "$ref": "213"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

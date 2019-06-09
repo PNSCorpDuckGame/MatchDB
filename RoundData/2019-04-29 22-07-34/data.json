@@ -1,0 +1,77 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "2752a5dc-2bae-405f-a148-f6f63a8e8434",
+  "Name": "2019-04-29 22-07-34",
+  "MatchName": "2019-04-29 22-03-15",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "Player 2",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "TimeEnded": "2019-04-29T22:07:42.0898538+02:00",
+  "TimeStarted": "2019-04-29T22:07:34.1598521+02:00",
+  "Winner": {
+    "$ref": "6"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

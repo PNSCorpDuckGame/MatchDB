@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "3b9915d6-03ac-419a-8853-6bc45b46f933",
+  "Name": "2018-06-08 21-11-55",
+  "MatchName": "2018-06-08 20-56-06",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 3
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 13
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Agents",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "Sombreros",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 13
+    }
+  ],
+  "TimeEnded": "2018-06-08T19:13:00.039606+00:00",
+  "TimeStarted": "2018-06-08T19:11:55.3320594+00:00",
+  "Winner": {
+    "$ref": "7"
+  },
+  "YoutubeUrl": "pfInoquKEhU",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572469135888482318/2018-06-08_21-11-55.mp4"
+    }
+  ]
+}

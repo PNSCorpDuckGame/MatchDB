@@ -1,0 +1,83 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "2126a2b9-0cd3-4765-bac6-17b93d2d3034",
+  "Name": "2018-07-31 22-20-23",
+  "MatchName": "2018-07-31 22-14-58",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 164075545968115713,
+      "Name": "zurator",
+      "NickName": null,
+      "UserId": "76561198021148954"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 3
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Burgers",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 4
+    }
+  ],
+  "TimeEnded": "2018-07-31T20:20:32.8086919+00:00",
+  "TimeStarted": "2018-07-31T20:20:23.9940896+00:00",
+  "Winner": {
+    "$ref": "5"
+  },
+  "YoutubeUrl": "KGVU3E0nkIY",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "8",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572696041611329536/2018-07-31_22-20-23.mp4"
+    }
+  ]
+}

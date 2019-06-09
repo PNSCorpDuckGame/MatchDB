@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "ac7cae4a-0cd1-47bf-bc21-024faad57773",
+  "Name": "2018-05-24 18-03-35",
+  "MatchName": "2018-05-24 17-51-53",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 167252066773893120,
+      "Name": "stevie wonder",
+      "NickName": "Raptor",
+      "UserId": "76561197993900183"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Super",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 13
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "TRICORNE",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 4
+    }
+  ],
+  "TimeEnded": "2018-05-24T16:04:04.6641498+00:00",
+  "TimeStarted": "2018-05-24T16:03:35.6471541+00:00",
+  "Winner": {
+    "$ref": "9"
+  },
+  "YoutubeUrl": "pG1ExaZfBMM",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572455031232528414/2018-05-24_18-03-35.mp4"
+    }
+  ]
+}

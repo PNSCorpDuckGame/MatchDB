@@ -1,0 +1,80 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "2743923e-27ff-4491-968a-33957fd6c8bd",
+  "Name": "2019-02-06 22-07-21",
+  "MatchName": "2019-02-06 21-56-45",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197999418456"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 10
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 13
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 7
+    }
+  ],
+  "TimeEnded": "2019-02-06T22:07:44.8015735+01:00",
+  "TimeStarted": "2019-02-06T22:07:21.7552573+01:00",
+  "Winner": {
+    "$ref": "6"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

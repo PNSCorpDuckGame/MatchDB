@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "1f4579f4-a7ff-4f71-82c5-90157c279c5c",
+  "Name": "2018-07-02 23-32-24",
+  "MatchName": "2018-07-02 23-24-43",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 202474794095083524,
+      "Name": "Twigletowns",
+      "NickName": null,
+      "UserId": "76561198044887712"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 14
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Agents",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "BIG ROBO",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 4
+    }
+  ],
+  "TimeEnded": "2018-07-02T21:32:33.2931173+00:00",
+  "TimeStarted": "2018-07-02T21:32:24.6590081+00:00",
+  "Winner": {
+    "$ref": "7"
+  },
+  "YoutubeUrl": "7SMxKGoqpms",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572481994320117760/2018-07-02_23-32-24.mp4"
+    }
+  ]
+}

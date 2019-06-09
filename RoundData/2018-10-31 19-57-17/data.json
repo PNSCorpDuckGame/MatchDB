@@ -1,0 +1,80 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "036a2542-89b2-4d44-a5e0-a927400ccbd2",
+  "Name": "2018-10-31 19-57-17",
+  "MatchName": "2018-10-31 19-55-48",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561198050165746"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "Uglies",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "Witchtime",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Pumpkins",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 0
+    }
+  ],
+  "TimeEnded": "2018-10-31T19:57:38.966844+01:00",
+  "TimeStarted": "2018-10-31T19:57:17.6141094+01:00",
+  "Winner": {
+    "$ref": "6"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

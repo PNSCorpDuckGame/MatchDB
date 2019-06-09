@@ -1,0 +1,83 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "3b9915d6-03ac-419a-8853-6bc45b46f933",
+  "Name": "2018-07-08 23-14-36",
+  "MatchName": "2018-07-08 23-05-39",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 16
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Agents",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "TimeEnded": "2018-07-08T21:15:10.5624667+00:00",
+  "TimeStarted": "2018-07-08T21:14:36.6411091+00:00",
+  "Winner": {
+    "$ref": "7"
+  },
+  "YoutubeUrl": "BRPV-WmpR-E",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "8",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572487224218746881/2018-07-08_23-14-36.mp4"
+    }
+  ]
+}

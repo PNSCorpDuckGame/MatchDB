@@ -1,0 +1,100 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "6b0fb056-69d6-47b8-9f64-88a7f47b489b",
+  "Name": "2018-10-24 22-58-02",
+  "MatchName": "2018-10-24 22-58-00",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197999418456"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "Player 2",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Senpai",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 0
+    }
+  ],
+  "TimeEnded": "2018-10-24T22:58:24.084476+02:00",
+  "TimeStarted": "2018-10-24T22:58:02.2515909+02:00",
+  "Winner": {
+    "$ref": "8"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

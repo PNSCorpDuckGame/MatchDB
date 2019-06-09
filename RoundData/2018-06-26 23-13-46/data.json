@@ -1,0 +1,81 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "1a123d6a-96a9-4c9e-8207-e6cd58d782dd",
+  "Name": "2018-06-26 23-13-46",
+  "MatchName": "2018-06-26 23-06-16",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "Player 2",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 6
+    }
+  ],
+  "TimeEnded": "2018-06-26T21:13:55.3518004+00:00",
+  "TimeStarted": "2018-06-26T21:13:46.7490341+00:00",
+  "Winner": null,
+  "YoutubeUrl": "xEnB0IBuo1I",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "8",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572477929557065759/2018-06-26_23-13-46.mp4"
+    }
+  ]
+}

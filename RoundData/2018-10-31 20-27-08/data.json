@@ -1,0 +1,100 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "0560f052-fe9d-4d99-9fc3-d26b56ff5d3a",
+  "Name": "2018-10-31 20-27-08",
+  "MatchName": "2018-10-31 20-17-06",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "Team": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "Player 4",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Uglies",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Wizards",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 11
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "Pumpkins",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 4
+    }
+  ],
+  "TimeEnded": "2018-10-31T20:27:40.5365834+01:00",
+  "TimeStarted": "2018-10-31T20:27:08.4517908+01:00",
+  "Winner": {
+    "$ref": "8"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": []
+}

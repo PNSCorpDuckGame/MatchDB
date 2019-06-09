@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "2752a5dc-2bae-405f-a148-f6f63a8e8434",
+  "Name": "2018-07-04 18-08-52",
+  "MatchName": "2018-07-04 18-05-43",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 167252066773893120,
+      "Name": "stevie wonder",
+      "NickName": "Raptor",
+      "UserId": "76561197993900183"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "MAJESTY",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 5
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "TRICORNE",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "Agents",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "Dicks",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 2
+    }
+  ],
+  "TimeEnded": "2018-07-04T16:09:00.8798274+00:00",
+  "TimeStarted": "2018-07-04T16:08:52.0669562+00:00",
+  "Winner": {
+    "$ref": "8"
+  },
+  "YoutubeUrl": "gG8yHq9x4xo",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572484598852878347/2018-07-04_18-08-52.mp4"
+    }
+  ]
+}

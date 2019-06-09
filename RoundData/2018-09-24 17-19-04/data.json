@@ -1,0 +1,82 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "b1968079-9c80-42ca-8d06-694c3a127a84",
+  "Name": "2018-09-24 17-19-04",
+  "MatchName": "2018-09-24 17-17-35",
+  "DatabaseIndex": "2018-09-24 17-19-04",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746",
+      "DatabaseIndex": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 167252066773893120,
+      "Name": "stevie wonder",
+      "NickName": "Raptor",
+      "UserId": "76561197993900183",
+      "DatabaseIndex": "76561197993900183"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "5",
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "Score": 1
+    },
+    {
+      "$id": "6",
+      "HasHat": true,
+      "HatName": "PONYCAP",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "Score": 1
+    },
+    {
+      "$id": "7",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "Score": 3
+    }
+  ],
+  "TimeEnded": "2018-09-24T17:19:18.6749859+02:00",
+  "TimeStarted": "2018-09-24T17:19:04.3307056+02:00",
+  "Winner": {
+    "$ref": "6"
+  },
+  "YoutubeUrl": "-TBPMjIin80",
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

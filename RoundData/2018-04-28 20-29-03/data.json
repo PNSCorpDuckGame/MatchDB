@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "d50ad62a-92ca-4a22-b5e7-bff0863b1d62",
+  "Name": "2018-04-28 20-29-03",
+  "MatchName": "2018-04-28 19-54-17",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 167252066773893120,
+      "Name": "stevie wonder",
+      "NickName": "Raptor",
+      "UserId": "76561197993900183"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 6
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Player 2",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 14
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "CYCLOPS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "Player 4",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 8
+    }
+  ],
+  "TimeEnded": "2018-04-28T18:29:19.9911706+00:00",
+  "TimeStarted": "2018-04-28T18:29:03.4131987+00:00",
+  "Winner": {
+    "$ref": "7"
+  },
+  "YoutubeUrl": "rRds59t2QyQ",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572373556864745472/2018-04-28_20-29-03.mp4"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "586903a2-2143-493e-adfa-e87048908e25",
+  "Name": "2018-09-19 23-41-17",
+  "MatchName": "2018-09-19 23-32-14",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "HasHat": true,
+      "HatName": "Agents",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        },
+        {
+          "$ref": "4"
+        }
+      ],
+      "Score": 8
+    },
+    {
+      "$id": "7",
+      "HasHat": true,
+      "HatName": "Caps",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        },
+        {
+          "$ref": "5"
+        }
+      ],
+      "Score": 15
+    }
+  ],
+  "TimeEnded": "2018-09-19T23:41:32.3000067+02:00",
+  "TimeStarted": "2018-09-19T23:41:17.8895762+02:00",
+  "Winner": {
+    "$ref": "7"
+  },
+  "YoutubeUrl": "Dn2Fbw8oTp8",
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

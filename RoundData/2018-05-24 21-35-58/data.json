@@ -1,0 +1,102 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "471fc251-00cd-4e77-88b6-17777c652868",
+  "Name": "2018-05-24 21-35-58",
+  "MatchName": "2018-05-24 21-32-56",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Dinos",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "Player 4",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 0
+    }
+  ],
+  "TimeEnded": "2018-05-24T19:36:12.9875983+00:00",
+  "TimeStarted": "2018-05-24T19:35:58.1269041+00:00",
+  "Winner": {
+    "$ref": "8"
+  },
+  "YoutubeUrl": "8w--0xgN38Y",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572455740745318410/2018-05-24_21-35-58.mp4"
+    }
+  ]
+}

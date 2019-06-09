@@ -1,0 +1,100 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "64da814d-b658-4906-8e87-70a8085319fd",
+  "Name": "2018-05-23 23-50-15",
+  "MatchName": "2018-05-23 23-34-53",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 150809682318065664,
+      "Name": "Meepen",
+      "NickName": null,
+      "UserId": "76561198050165746"
+    },
+    {
+      "$id": "4",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590"
+    },
+    {
+      "$id": "5",
+      "DiscordId": 94866365525008384,
+      "Name": "metaMan",
+      "NickName": null,
+      "UserId": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "6",
+      "hasHat": true,
+      "hatName": "DUCKS",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "$id": "7",
+      "hasHat": true,
+      "hatName": "Super",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "$id": "8",
+      "hasHat": true,
+      "hatName": "MOONWALK",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "4"
+        }
+      ],
+      "score": 9
+    },
+    {
+      "$id": "9",
+      "hasHat": true,
+      "hatName": "Player 4",
+      "isCustomHat": true,
+      "Players": [
+        {
+          "$ref": "5"
+        }
+      ],
+      "score": 10
+    }
+  ],
+  "TimeEnded": "2018-05-23T21:50:28.6620559+00:00",
+  "TimeStarted": "2018-05-23T21:50:15.5318135+00:00",
+  "Winner": null,
+  "YoutubeUrl": "MLHbCASoNfU",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "10",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572440100936613888/2018-05-23_23-50-15.mp4"
+    }
+  ]
+}

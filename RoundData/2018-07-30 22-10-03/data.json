@@ -1,0 +1,62 @@
+{
+  "$id": "1",
+  "RecordingType": 1,
+  "IsCustomLevel": false,
+  "LevelName": "218e35f2-fcd7-4786-bdab-a8dd3e59b659",
+  "Name": "2018-07-30 22-10-03",
+  "MatchName": "2018-07-30 22-10-02",
+  "Players": [
+    {
+      "$id": "2",
+      "DiscordId": 0,
+      "Name": "Player1",
+      "NickName": null,
+      "UserId": "PLAYER1"
+    },
+    {
+      "$id": "3",
+      "DiscordId": 0,
+      "Name": "Player2",
+      "NickName": null,
+      "UserId": "PLAYER2"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "4",
+      "hasHat": false,
+      "hatName": "Player 1",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "2"
+        }
+      ],
+      "score": 0
+    },
+    {
+      "$id": "5",
+      "hasHat": false,
+      "hatName": "Player 2",
+      "isCustomHat": false,
+      "Players": [
+        {
+          "$ref": "3"
+        }
+      ],
+      "score": 0
+    }
+  ],
+  "TimeEnded": "2018-07-30T20:10:06.5429343+00:00",
+  "TimeStarted": "2018-07-30T20:10:03.8539511+00:00",
+  "Winner": null,
+  "YoutubeUrl": "mkktqIApeIc",
+  "VideoType": 2,
+  "VideoMirrors": [
+    {
+      "$id": "6",
+      "MirrorType": 1,
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572695273344598016/2018-07-30_22-10-03.mp4"
+    }
+  ]
+}

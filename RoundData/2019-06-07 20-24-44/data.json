@@ -1,0 +1,120 @@
+{
+  "$id": "534",
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "5d758d40-dbce-48de-8e3a-14735435e4a0",
+  "Name": "2019-06-07 20-24-44",
+  "MatchName": "2019-06-07 20-24-01",
+  "DatabaseIndex": "2019-06-07 20-24-44",
+  "Players": [
+    {
+      "$id": "535",
+      "DiscordId": 0,
+      "Name": "Player1",
+      "NickName": null,
+      "UserId": "PLAYER1",
+      "DatabaseIndex": "PLAYER1"
+    },
+    {
+      "$id": "536",
+      "DiscordId": 0,
+      "Name": "Player2",
+      "NickName": null,
+      "UserId": "PLAYER2",
+      "DatabaseIndex": "PLAYER2"
+    },
+    {
+      "$id": "537",
+      "DiscordId": 0,
+      "Name": "Player3",
+      "NickName": null,
+      "UserId": "PLAYER3",
+      "DatabaseIndex": "PLAYER3"
+    },
+    {
+      "$id": "538",
+      "DiscordId": 0,
+      "Name": "Player4",
+      "NickName": null,
+      "UserId": "PLAYER4",
+      "DatabaseIndex": "PLAYER4"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "539",
+      "HasHat": false,
+      "HatName": "Player 1",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "540",
+          "DiscordId": 0,
+          "Name": "Player1",
+          "NickName": null,
+          "UserId": "PLAYER1",
+          "DatabaseIndex": "PLAYER1"
+        }
+      ],
+      "Score": 0
+    },
+    {
+      "$id": "541",
+      "HasHat": false,
+      "HatName": "Player 2",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "542",
+          "DiscordId": 0,
+          "Name": "Player2",
+          "NickName": null,
+          "UserId": "PLAYER2",
+          "DatabaseIndex": "PLAYER2"
+        }
+      ],
+      "Score": 0
+    },
+    {
+      "$id": "543",
+      "HasHat": false,
+      "HatName": "Player 3",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "544",
+          "DiscordId": 0,
+          "Name": "Player3",
+          "NickName": null,
+          "UserId": "PLAYER3",
+          "DatabaseIndex": "PLAYER3"
+        }
+      ],
+      "Score": 0
+    },
+    {
+      "$id": "545",
+      "HasHat": false,
+      "HatName": "Player 4",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "546",
+          "DiscordId": 0,
+          "Name": "Player4",
+          "NickName": null,
+          "UserId": "PLAYER4",
+          "DatabaseIndex": "PLAYER4"
+        }
+      ],
+      "Score": 0
+    }
+  ],
+  "TimeEnded": "2019-06-07T20:25:00.6264617+02:00",
+  "TimeStarted": "2019-06-07T20:24:44.0994306+02:00",
+  "Winner": null,
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

@@ -1,0 +1,74 @@
+{
+  "$id": "426",
+  "Name": "2019-06-07 20-24-01",
+  "DatabaseIndex": "2019-06-07 20-24-01",
+  "Players": [
+    {
+      "$id": "427",
+      "DiscordId": 0,
+      "Name": "Player1",
+      "NickName": null,
+      "UserId": "PLAYER1",
+      "DatabaseIndex": "PLAYER1"
+    },
+    {
+      "$id": "428",
+      "DiscordId": 0,
+      "Name": "Player2",
+      "NickName": null,
+      "UserId": "PLAYER2",
+      "DatabaseIndex": "PLAYER2"
+    }
+  ],
+  "Rounds": [
+    "2019-06-07 20-24-02",
+    "2019-06-07 20-24-10",
+    "2019-06-07 20-24-36",
+    "2019-06-07 20-24-44"
+  ],
+  "Teams": [
+    {
+      "$id": "429",
+      "HasHat": false,
+      "HatName": "Player 1",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "430",
+          "DiscordId": 0,
+          "Name": "Player1",
+          "NickName": null,
+          "UserId": "PLAYER1",
+          "DatabaseIndex": "PLAYER1"
+        }
+      ],
+      "Score": 4
+    },
+    {
+      "$id": "431",
+      "HasHat": false,
+      "HatName": "Player 2",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "432",
+          "DiscordId": 0,
+          "Name": "Player2",
+          "NickName": null,
+          "UserId": "PLAYER2",
+          "DatabaseIndex": "PLAYER2"
+        }
+      ],
+      "Score": 0
+    }
+  ],
+  "TimeEnded": "2019-06-07T20:25:00.5386961+02:00",
+  "TimeStarted": "2019-06-07T20:24:01.3367033+02:00",
+  "Winner": {
+    "$ref": "429"
+  },
+  "YoutubeUrl": "",
+  "VideoType": 1,
+  "VideoMirrors": [],
+  "Tags": []
+}
