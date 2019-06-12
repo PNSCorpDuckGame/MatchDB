@@ -1,80 +1,82 @@
 {
-  "$id": "1",
+  "$id": "29",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "586903a2-2143-493e-adfa-e87048908e25",
   "Name": "2018-09-24 17-46-28",
   "MatchName": "2018-09-24 17-44-06",
+  "DatabaseIndex": "2018-09-24 17-46-28",
   "Players": [
     {
-      "$id": "2",
+      "$id": "30",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561197998646590"
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
     },
     {
-      "$id": "3",
+      "$id": "31",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561198050165746"
+      "UserId": "76561198050165746",
+      "DatabaseIndex": "76561198050165746"
     },
     {
-      "$id": "4",
+      "$id": "32",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "Team": null,
-      "UserId": "76561197993900183"
+      "UserId": "76561197993900183",
+      "DatabaseIndex": "76561197993900183"
     }
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "Wizards",
-      "isCustomHat": false,
+      "$id": "33",
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "$ref": "32"
         }
       ],
-      "score": 1
+      "Score": 1
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "PONYCAP",
-      "isCustomHat": false,
+      "$id": "34",
+      "HasHat": true,
+      "HatName": "PONYCAP",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "$ref": "31"
         }
       ],
-      "score": 0
+      "Score": 0
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "$id": "35",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "$ref": "30"
         }
       ],
-      "score": 3
+      "Score": 3
     }
   ],
   "TimeEnded": "2018-09-24T17:46:37.0832401+02:00",
   "TimeStarted": "2018-09-24T17:46:28.0206545+02:00",
   "Winner": {
-    "$ref": "7"
+    "$ref": "35"
   },
-  "YoutubeUrl": null,
+  "YoutubeUrl": "UwnPJX6IJgQ",
   "VideoType": 2,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

@@ -1,80 +1,82 @@
 {
-  "$id": "1",
+  "$id": "162",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "d648f791-6f0a-4496-ae8a-84a0f8af58b3",
   "Name": "2018-09-24 17-52-49",
   "MatchName": "2018-09-24 17-44-06",
+  "DatabaseIndex": "2018-09-24 17-52-49",
   "Players": [
     {
-      "$id": "2",
+      "$id": "163",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561197998646590"
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
     },
     {
-      "$id": "3",
+      "$id": "164",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561198050165746"
+      "UserId": "76561198050165746",
+      "DatabaseIndex": "76561198050165746"
     },
     {
-      "$id": "4",
+      "$id": "165",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "Team": null,
-      "UserId": "76561197993900183"
+      "UserId": "76561197993900183",
+      "DatabaseIndex": "76561197993900183"
     }
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "Wizards",
-      "isCustomHat": false,
+      "$id": "166",
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "$ref": "165"
         }
       ],
-      "score": 6
+      "Score": 6
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "PONYCAP",
-      "isCustomHat": false,
+      "$id": "167",
+      "HasHat": true,
+      "HatName": "PONYCAP",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "$ref": "164"
         }
       ],
-      "score": 1
+      "Score": 1
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "$id": "168",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "$ref": "163"
         }
       ],
-      "score": 14
+      "Score": 14
     }
   ],
   "TimeEnded": "2018-09-24T17:53:00.2993524+02:00",
   "TimeStarted": "2018-09-24T17:52:49.3169201+02:00",
   "Winner": {
-    "$ref": "5"
+    "$ref": "166"
   },
-  "YoutubeUrl": null,
+  "YoutubeUrl": "QhOzhobcN1Q",
   "VideoType": 2,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }
