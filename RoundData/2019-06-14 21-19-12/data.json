@@ -1,0 +1,97 @@
+{
+  "$id": "221",
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "489b4f3d-e03f-4c3c-a375-cb8bf583cdf1",
+  "Name": "2019-06-14 21-19-12",
+  "MatchName": "2019-06-14 21-15-49",
+  "DatabaseIndex": "2019-06-14 21-19-12",
+  "Players": [
+    {
+      "$id": "222",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
+    },
+    {
+      "$id": "223",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316",
+      "DatabaseIndex": "76561197998909316"
+    },
+    {
+      "$id": "224",
+      "DiscordId": 94866365525008384,
+      "Name": "MetaMan",
+      "NickName": null,
+      "UserId": "76561197999418456",
+      "DatabaseIndex": "76561197999418456"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "225",
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "226",
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316",
+          "DatabaseIndex": "76561197998909316"
+        }
+      ],
+      "Score": 3
+    },
+    {
+      "$id": "227",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "228",
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590",
+          "DatabaseIndex": "76561197998646590"
+        }
+      ],
+      "Score": 4
+    },
+    {
+      "$id": "229",
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "230",
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456",
+          "DatabaseIndex": "76561197999418456"
+        }
+      ],
+      "Score": 3
+    }
+  ],
+  "TimeEnded": "2019-06-14T21:19:32.4542192+02:00",
+  "TimeStarted": "2019-06-14T21:19:12.389817+02:00",
+  "Winner": {
+    "$ref": "227"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
