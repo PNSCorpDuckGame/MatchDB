@@ -1,0 +1,72 @@
+{
+  "$id": "1417",
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "ef9d888d-4039-41d8-811b-7c8aef844816",
+  "Name": "2019-06-15 20-27-48",
+  "MatchName": "2019-06-15 20-19-21",
+  "DatabaseIndex": "2019-06-15 20-27-48",
+  "Players": [
+    {
+      "$id": "1418",
+      "DiscordId": 108174525576777728,
+      "Name": "Jvs",
+      "NickName": null,
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
+    },
+    {
+      "$id": "1419",
+      "DiscordId": 105698042438549504,
+      "Name": "Willox",
+      "NickName": null,
+      "UserId": "76561197998909316",
+      "DatabaseIndex": "76561197998909316"
+    }
+  ],
+  "Teams": [
+    {
+      "$id": "1420",
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "1421",
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316",
+          "DatabaseIndex": "76561197998909316"
+        }
+      ],
+      "Score": 8
+    },
+    {
+      "$id": "1422",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        {
+          "$id": "1423",
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590",
+          "DatabaseIndex": "76561197998646590"
+        }
+      ],
+      "Score": 13
+    }
+  ],
+  "TimeEnded": "2019-06-15T20:27:57.7894766+02:00",
+  "TimeStarted": "2019-06-15T20:27:48.1565182+02:00",
+  "Winner": {
+    "$ref": "1422"
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
