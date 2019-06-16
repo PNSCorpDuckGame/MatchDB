@@ -1,100 +1,102 @@
 {
-  "$id": "1",
+  "$id": "168",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "9a460970-6c6d-4bbc-b3e6-72cee22792f6",
   "Name": "2018-09-24 22-32-07",
   "MatchName": "2018-09-24 22-27-10",
+  "DatabaseIndex": "2018-09-24 22-32-07",
   "Players": [
     {
-      "$id": "2",
+      "$id": "169",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561197998646590"
+      "UserId": "76561197998646590",
+      "DatabaseIndex": "76561197998646590"
     },
     {
-      "$id": "3",
+      "$id": "170",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561197998909316"
+      "UserId": "76561197998909316",
+      "DatabaseIndex": "76561197998909316"
     },
     {
-      "$id": "4",
+      "$id": "171",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561198050165746"
+      "UserId": "76561198050165746",
+      "DatabaseIndex": "76561198050165746"
     },
     {
-      "$id": "5",
+      "$id": "172",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "Team": null,
-      "UserId": "76561197999418456"
+      "UserId": "76561197999418456",
+      "DatabaseIndex": "76561197999418456"
     }
   ],
   "Teams": [
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Player 4",
-      "isCustomHat": true,
+      "$id": "173",
+      "HasHat": true,
+      "HatName": "Player 4",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "5"
+          "$ref": "172"
         }
       ],
-      "score": 3
+      "Score": 3
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "$id": "174",
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "$ref": "170"
         }
       ],
-      "score": 4
+      "Score": 4
     },
     {
-      "$id": "8",
-      "hasHat": true,
-      "hatName": "Agents",
-      "isCustomHat": false,
+      "$id": "175",
+      "HasHat": true,
+      "HatName": "Agents",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "$ref": "171"
         }
       ],
-      "score": 1
+      "Score": 1
     },
     {
-      "$id": "9",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "$id": "176",
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "$ref": "169"
         }
       ],
-      "score": 2
+      "Score": 2
     }
   ],
   "TimeEnded": "2018-09-24T22:32:21.8853151+02:00",
   "TimeStarted": "2018-09-24T22:32:07.4431337+02:00",
   "Winner": {
-    "$ref": "7"
+    "$ref": "174"
   },
-  "YoutubeUrl": null,
+  "YoutubeUrl": "cr4UzU45eJs",
   "VideoType": 2,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }
