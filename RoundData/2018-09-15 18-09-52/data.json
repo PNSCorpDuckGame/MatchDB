@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "cce8a0c4-d905-42a3-a134-0fb82a0bc872",
@@ -7,21 +6,18 @@
   "MatchName": "2018-09-15 18-01-36",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
       "UserId": "76561197993900183"
     },
     {
-      "$id": "4",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 2
+      "Score": 2
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "CYCLOPS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "CYCLOPS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
-      "score": 5
+      "Score": 5
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 18
+      "Score": 18
     }
   ],
-  "TimeEnded": "2018-09-15T16:10:05.0347285+00:00",
-  "TimeStarted": "2018-09-15T16:09:52.9047352+00:00",
+  "TimeEnded": "2018-09-15T18:10:05.0347285+02:00",
+  "TimeStarted": "2018-09-15T18:09:52.9047352+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 18
   },
   "YoutubeUrl": "aQltPtjB1no",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572747560037515264/2018-09-15_18-09-52.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

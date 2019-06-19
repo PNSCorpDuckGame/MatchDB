@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "edaa81e4-0d8a-47a0-9d32-e35cc7b5cffa",
@@ -7,94 +6,106 @@
   "MatchName": "2018-10-06 22-03-09",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
-      "Team": null,
       "UserId": "76561198021148954"
     },
     {
-      "$id": "4",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "Team": null,
       "UserId": "76561198050165746"
     },
     {
-      "$id": "5",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998909316"
     }
   ],
   "Teams": [
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "5"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 3
+      "Score": 3
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "Chancy",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Chancy",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 2
+      "Score": 2
     },
     {
-      "$id": "8",
-      "hasHat": true,
-      "hatName": "PONYCAP",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "PONYCAP",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
-      "score": 1
+      "Score": 1
     },
     {
-      "$id": "9",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 5
+      "Score": 5
     }
   ],
   "TimeEnded": "2018-10-06T22:07:09.5025045+02:00",
   "TimeStarted": "2018-10-06T22:06:47.9523906+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "Chancy",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 164075545968115713,
+        "Name": "zurator",
+        "NickName": null,
+        "UserId": "76561198021148954"
+      }
+    ],
+    "Score": 2
   },
   "YoutubeUrl": null,
   "VideoType": 2,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

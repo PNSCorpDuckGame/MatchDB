@@ -1,90 +1,88 @@
 {
-  "$id": "46",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "7729ab60-6cb2-431c-ad13-44d84edf799b",
   "Name": "2018-09-24 22-44-42",
   "MatchName": "2018-09-24 22-27-10",
-  "DatabaseIndex": "2018-09-24 22-44-42",
   "Players": [
     {
-      "$id": "47",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "48",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     },
     {
-      "$id": "49",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "UserId": "76561198050165746",
-      "DatabaseIndex": "76561198050165746"
+      "UserId": "76561198050165746"
     },
     {
-      "$id": "50",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "UserId": "76561197999418456",
-      "DatabaseIndex": "76561197999418456"
+      "UserId": "76561197999418456"
     }
   ],
   "Teams": [
     {
-      "$id": "51",
       "HasHat": true,
       "HatName": "Player 4",
       "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "50"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
       "Score": 11
     },
     {
-      "$id": "52",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "48"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 8
     },
     {
-      "$id": "53",
       "HasHat": true,
       "HatName": "Agents",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "49"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
       "Score": 5
     },
     {
-      "$id": "54",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "47"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 15

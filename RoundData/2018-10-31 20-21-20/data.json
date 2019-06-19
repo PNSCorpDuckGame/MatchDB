@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "d648f791-6f0a-4496-ae8a-84a0f8af58b3",
@@ -7,86 +6,86 @@
   "MatchName": "2018-10-31 20-17-06",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "Team": null,
       "UserId": "76561198050165746"
     },
     {
-      "$id": "4",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "5",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197999418456"
     }
   ],
   "Teams": [
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Player 4",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 4",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "5"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 2
+      "Score": 2
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "Uglies",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Uglies",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 2
+      "Score": 2
     },
     {
-      "$id": "8",
-      "hasHat": true,
-      "hatName": "Wizards",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 4
+      "Score": 4
     },
     {
-      "$id": "9",
-      "hasHat": true,
-      "hatName": "Pumpkins",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Pumpkins",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
-      "score": 2
+      "Score": 2
     }
   ],
   "TimeEnded": "2018-10-31T20:21:29.6326041+01:00",
@@ -94,5 +93,6 @@
   "Winner": null,
   "YoutubeUrl": null,
   "VideoType": 2,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

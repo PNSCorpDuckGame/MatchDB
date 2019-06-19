@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "a52f00a9-5e9f-49af-bf9c-e4eabc14f490",
@@ -7,21 +6,18 @@
   "MatchName": "2018-08-06 22-13-41",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
       "UserId": "76561198021148954"
     },
     {
-      "$id": "4",
       "DiscordId": 94866365525008384,
       "Name": "metaMan",
       "NickName": null,
@@ -30,52 +26,58 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 13
+      "Score": 13
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Burgers",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Burgers",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 9
+      "Score": 9
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "TWINTAIL",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "TWINTAIL",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 94866365525008384,
+          "Name": "metaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 12
+      "Score": 12
     }
   ],
-  "TimeEnded": "2018-08-06T20:31:49.7718449+00:00",
-  "TimeStarted": "2018-08-06T20:31:45.4587012+00:00",
+  "TimeEnded": "2018-08-06T22:31:49.7718449+02:00",
+  "TimeStarted": "2018-08-06T22:31:45.4587012+02:00",
   "Winner": null,
   "YoutubeUrl": "uRaCVo0xhw0",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572703152684531732/2018-08-06_22-31-45.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

@@ -1,37 +1,28 @@
 {
-  "$id": "1",
   "Name": "2018-07-26 21-54-59",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 94866365525008384,
       "Name": "metaMan",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197999418456"
     },
     {
-      "$id": "5",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
-      "Team": null,
       "UserId": "76561198021148954"
     }
   ],
@@ -89,60 +80,80 @@
   ],
   "Teams": [
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 14
+      "Score": 14
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 11
+      "Score": 11
     },
     {
-      "$id": "8",
-      "hasHat": true,
-      "hatName": "Player 3",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 3",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 94866365525008384,
+          "Name": "metaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 8
+      "Score": 8
     },
     {
-      "$id": "9",
-      "hasHat": true,
-      "hatName": "Senpai",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Senpai",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "5"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 15
+      "Score": 15
     }
   ],
   "TimeEnded": "2018-07-26T22:16:57.2305133+02:00",
   "TimeStarted": "2018-07-26T21:54:59.5610977+02:00",
   "Winner": {
-    "$ref": "9"
+    "HasHat": true,
+    "HatName": "Senpai",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 164075545968115713,
+        "Name": "zurator",
+        "NickName": null,
+        "UserId": "76561198021148954"
+      }
+    ],
+    "Score": 15
   },
   "YoutubeUrl": "PL13R2KKE1DTuoU8NL8NzOixlGG0Bo3d8g",
   "VideoType": 1,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

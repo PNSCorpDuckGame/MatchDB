@@ -1,37 +1,28 @@
 {
-  "$id": "1",
   "Name": "2018-07-12 00-13-45",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 94866365525008384,
       "Name": "metaMan",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197999418456"
     },
     {
-      "$id": "5",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "Team": null,
       "UserId": "76561197993900183"
     }
   ],
@@ -89,60 +80,80 @@
   ],
   "Teams": [
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 16
+      "Score": 16
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 9
+      "Score": 9
     },
     {
-      "$id": "8",
-      "hasHat": true,
-      "hatName": "Player 3",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 3",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 94866365525008384,
+          "Name": "metaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 8
+      "Score": 8
     },
     {
-      "$id": "9",
-      "hasHat": true,
-      "hatName": "Wizards",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "5"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
-      "score": 11
+      "Score": 11
     }
   ],
   "TimeEnded": "2018-07-12T00:34:22.1915496+02:00",
   "TimeStarted": "2018-07-12T00:13:45.1308489+02:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 16
   },
   "YoutubeUrl": "PL13R2KKE1DTu5-KEY9SmKibYx4lTXWuwo",
   "VideoType": 1,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "2c15b996-095c-4f87-8a43-cce7f2b78074",
@@ -7,21 +6,18 @@
   "MatchName": "2018-07-21 22-34-25",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 94866365525008384,
       "Name": "metaMan",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 6
+      "Score": 6
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 3
+      "Score": 3
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "Player 3",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 3",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 94866365525008384,
+          "Name": "metaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 4
+      "Score": 4
     }
   ],
-  "TimeEnded": "2018-07-21T20:41:08.6303106+00:00",
-  "TimeStarted": "2018-07-21T20:40:30.7646243+00:00",
+  "TimeEnded": "2018-07-21T22:41:08.6303106+02:00",
+  "TimeStarted": "2018-07-21T22:40:30.7646243+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "Player 3",
+    "IsCustomHat": true,
+    "Players": [
+      {
+        "DiscordId": 94866365525008384,
+        "Name": "metaMan",
+        "NickName": null,
+        "UserId": "76561197999418456"
+      }
+    ],
+    "Score": 4
   },
   "YoutubeUrl": "-5oypU-KJTk",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572689394574688266/2018-07-21_22-40-30.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

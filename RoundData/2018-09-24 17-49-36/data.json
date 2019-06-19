@@ -1,70 +1,68 @@
 {
-  "$id": "92",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "d2ca9f73-9d60-4bd7-b7ac-ac524d906afc",
   "Name": "2018-09-24 17-49-36",
   "MatchName": "2018-09-24 17-44-06",
-  "DatabaseIndex": "2018-09-24 17-49-36",
   "Players": [
     {
-      "$id": "93",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "94",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "UserId": "76561198050165746",
-      "DatabaseIndex": "76561198050165746"
+      "UserId": "76561198050165746"
     },
     {
-      "$id": "95",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "UserId": "76561197993900183",
-      "DatabaseIndex": "76561197993900183"
+      "UserId": "76561197993900183"
     }
   ],
   "Teams": [
     {
-      "$id": "96",
       "HasHat": true,
       "HatName": "Wizards",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "95"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
       "Score": 3
     },
     {
-      "$id": "97",
       "HasHat": true,
       "HatName": "PONYCAP",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "94"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
       "Score": 1
     },
     {
-      "$id": "98",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "93"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 7

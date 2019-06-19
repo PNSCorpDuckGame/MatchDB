@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "b0704fc1-60c6-41a7-9b97-995d9f5f8b55",
@@ -7,21 +6,18 @@
   "MatchName": "2019-05-05 19-06-54",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
@@ -30,37 +26,43 @@
   ],
   "Teams": [
     {
-      "$id": "5",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 2
     },
     {
-      "$id": "6",
       "HasHat": true,
       "HatName": "TRICORNE",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
       "Score": 7
     },
     {
-      "$id": "7",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 6
@@ -69,7 +71,18 @@
   "TimeEnded": "2019-05-05T19:12:56.691732+02:00",
   "TimeStarted": "2019-05-05T19:12:26.4764751+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 6
   },
   "YoutubeUrl": null,
   "VideoType": 2,

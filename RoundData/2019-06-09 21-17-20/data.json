@@ -1,85 +1,68 @@
 {
-  "$id": "4334",
   "RecordingType": 1,
   "IsCustomLevel": true,
   "LevelName": "af7b8993-5dfe-44c3-853c-43885e23858e",
   "Name": "2019-06-09 21-17-20",
   "MatchName": "2019-06-09 21-04-36",
-  "DatabaseIndex": "2019-06-09 21-17-20",
   "Players": [
     {
-      "$id": "4335",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "4336",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "UserId": "76561197999418456",
-      "DatabaseIndex": "76561197999418456"
+      "UserId": "76561197999418456"
     },
     {
-      "$id": "4337",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     }
   ],
   "Teams": [
     {
-      "$id": "4338",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "4339",
           "DiscordId": 105698042438549504,
           "Name": "Willox",
           "NickName": null,
-          "UserId": "76561197998909316",
-          "DatabaseIndex": "76561197998909316"
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 8
     },
     {
-      "$id": "4340",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "4341",
           "DiscordId": 108174525576777728,
           "Name": "Jvs",
           "NickName": null,
-          "UserId": "76561197998646590",
-          "DatabaseIndex": "76561197998646590"
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 16
     },
     {
-      "$id": "4342",
       "HasHat": true,
       "HatName": "MOONWALK",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "4343",
           "DiscordId": 94866365525008384,
           "Name": "MetaMan",
           "NickName": null,
-          "UserId": "76561197999418456",
-          "DatabaseIndex": "76561197999418456"
+          "UserId": "76561197999418456"
         }
       ],
       "Score": 10
@@ -88,7 +71,18 @@
   "TimeEnded": "2019-06-09T21:18:13.2500036+02:00",
   "TimeStarted": "2019-06-09T21:17:20.1124211+02:00",
   "Winner": {
-    "$ref": "4342"
+    "HasHat": true,
+    "HatName": "MOONWALK",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 94866365525008384,
+        "Name": "MetaMan",
+        "NickName": null,
+        "UserId": "76561197999418456"
+      }
+    ],
+    "Score": 10
   },
   "YoutubeUrl": null,
   "VideoType": 2,

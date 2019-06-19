@@ -1,31 +1,23 @@
 {
-  "$id": "4542",
   "Name": "2019-06-08 21-27-24",
-  "DatabaseIndex": "2019-06-08 21-27-24",
   "Players": [
     {
-      "$id": "4543",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "4544",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     },
     {
-      "$id": "4545",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "UserId": "76561197999418456",
-      "DatabaseIndex": "76561197999418456"
+      "UserId": "76561197999418456"
     }
   ],
   "Rounds": [
@@ -72,52 +64,43 @@
   ],
   "Teams": [
     {
-      "$id": "4546",
       "HasHat": true,
       "HatName": "Sombreros",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "4547",
           "DiscordId": 94866365525008384,
           "Name": "MetaMan",
           "NickName": null,
-          "UserId": "76561197999418456",
-          "DatabaseIndex": "76561197999418456"
+          "UserId": "76561197999418456"
         }
       ],
       "Score": 17
     },
     {
-      "$id": "4548",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "4549",
           "DiscordId": 105698042438549504,
           "Name": "Willox",
           "NickName": null,
-          "UserId": "76561197998909316",
-          "DatabaseIndex": "76561197998909316"
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 5
     },
     {
-      "$id": "4550",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "4551",
           "DiscordId": 108174525576777728,
           "Name": "Jvs",
           "NickName": null,
-          "UserId": "76561197998646590",
-          "DatabaseIndex": "76561197998646590"
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 16
@@ -126,7 +109,18 @@
   "TimeEnded": "2019-06-08T21:40:54.2237446+02:00",
   "TimeStarted": "2019-06-08T21:27:24.623698+02:00",
   "Winner": {
-    "$ref": "4546"
+    "HasHat": true,
+    "HatName": "Sombreros",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 94866365525008384,
+        "Name": "MetaMan",
+        "NickName": null,
+        "UserId": "76561197999418456"
+      }
+    ],
+    "Score": 17
   },
   "YoutubeUrl": "",
   "VideoType": 1,

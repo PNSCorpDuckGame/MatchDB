@@ -1,29 +1,22 @@
 {
-  "$id": "1",
   "Name": "2019-01-24 21-41-22",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197999418456"
     }
   ],
@@ -92,48 +85,66 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 17
+      "Score": 17
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 18
+      "Score": 18
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 16
+      "Score": 16
     }
   ],
   "TimeEnded": "2019-01-24T22:02:09.5536944+01:00",
   "TimeStarted": "2019-01-24T21:41:22.4692592+01:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 18
   },
   "YoutubeUrl": "",
   "VideoType": 1,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

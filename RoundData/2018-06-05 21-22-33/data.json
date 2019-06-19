@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "1e0079a0-d410-4097-bfb8-91599ec3631b",
@@ -7,21 +6,18 @@
   "MatchName": "2018-06-05 21-18-48",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "3",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
       "UserId": "76561198050165746"
     },
     {
-      "$id": "4",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 1
+      "Score": 1
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "brad",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "brad",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
-      "score": 3
+      "Score": 3
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 3
+      "Score": 3
     }
   ],
-  "TimeEnded": "2018-06-05T19:22:58.8605687+00:00",
-  "TimeStarted": "2018-06-05T19:22:33.6674436+00:00",
+  "TimeEnded": "2018-06-05T21:22:58.8605687+02:00",
+  "TimeStarted": "2018-06-05T21:22:33.6674436+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "MOONWALK",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 3
   },
   "YoutubeUrl": "N9xRYGjf5yk",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572464995418374180/2018-06-05_21-22-33.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

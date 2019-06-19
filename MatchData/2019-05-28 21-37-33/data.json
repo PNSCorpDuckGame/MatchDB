@@ -1,16 +1,13 @@
 {
-  "$id": "1",
   "Name": "2019-05-28 21-37-33",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
@@ -61,25 +58,29 @@
   ],
   "Teams": [
     {
-      "$id": "4",
       "HasHat": true,
       "HatName": "Pilots",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
       "Score": 12
     },
     {
-      "$id": "5",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 18
@@ -88,7 +89,18 @@
   "TimeEnded": "2019-05-28T21:52:54.1801363+02:00",
   "TimeStarted": "2019-05-28T21:37:33.8118249+02:00",
   "Winner": {
-    "$ref": "5"
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 18
   },
   "YoutubeUrl": "",
   "VideoType": 1,

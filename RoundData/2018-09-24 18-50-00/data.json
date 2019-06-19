@@ -1,90 +1,88 @@
 {
-  "$id": "803",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "64da814d-b658-4906-8e87-70a8085319fd",
   "Name": "2018-09-24 18-50-00",
   "MatchName": "2018-09-24 18-36-18",
-  "DatabaseIndex": "2018-09-24 18-50-00",
   "Players": [
     {
-      "$id": "804",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "805",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     },
     {
-      "$id": "806",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "UserId": "76561197993900183",
-      "DatabaseIndex": "76561197993900183"
+      "UserId": "76561197993900183"
     },
     {
-      "$id": "807",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "UserId": "76561198050165746",
-      "DatabaseIndex": "76561198050165746"
+      "UserId": "76561198050165746"
     }
   ],
   "Teams": [
     {
-      "$id": "808",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "805"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 11
     },
     {
-      "$id": "809",
       "HasHat": true,
       "HatName": "BIG ROBO",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "807"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
       "Score": 9
     },
     {
-      "$id": "810",
       "HasHat": true,
       "HatName": "TWINTAIL",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "806"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
       "Score": 1
     },
     {
-      "$id": "811",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "804"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 11

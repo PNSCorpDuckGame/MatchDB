@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "8ee06dbc-203f-472f-9e96-2b60bcb3bb57",
@@ -7,21 +6,18 @@
   "MatchName": "2018-09-20 21-33-52",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
@@ -30,37 +26,43 @@
   ],
   "Teams": [
     {
-      "$id": "5",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 0
     },
     {
-      "$id": "6",
       "HasHat": true,
       "HatName": "Chancy",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
       "Score": 1
     },
     {
-      "$id": "7",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 0
@@ -69,7 +71,18 @@
   "TimeEnded": "2018-09-20T21:34:12.2474416+02:00",
   "TimeStarted": "2018-09-20T21:33:54.2792163+02:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "Chancy",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 164075545968115713,
+        "Name": "zurator",
+        "NickName": null,
+        "UserId": "76561198021148954"
+      }
+    ],
+    "Score": 1
   },
   "YoutubeUrl": "0F39itSU77A",
   "VideoType": 2,

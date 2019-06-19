@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "2aa226a3-7db9-436b-adff-bbcf01f8d4a1",
@@ -7,28 +6,24 @@
   "MatchName": "2018-05-29 21-11-10",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "3",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
       "UserId": "76561198050165746"
     },
     {
-      "$id": "4",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "5",
       "DiscordId": 94866365525008384,
       "Name": "metaMan",
       "NickName": null,
@@ -37,66 +32,85 @@
   ],
   "Teams": [
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 0
+      "Score": 0
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "Super",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Super",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
-      "score": 0
+      "Score": 0
     },
     {
-      "$id": "8",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 0
+      "Score": 0
     },
     {
-      "$id": "9",
-      "hasHat": true,
-      "hatName": "Player 4",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 4",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "5"
+          "DiscordId": 94866365525008384,
+          "Name": "metaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 0
+      "Score": 0
     }
   ],
-  "TimeEnded": "2018-05-29T19:17:18.9708917+00:00",
-  "TimeStarted": "2018-05-29T19:17:03.5538114+00:00",
+  "TimeEnded": "2018-05-29T21:17:18.9708917+02:00",
+  "TimeStarted": "2018-05-29T21:17:03.5538114+02:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "DUCKS",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 105698042438549504,
+        "Name": "Willox",
+        "NickName": null,
+        "UserId": "76561197998909316"
+      }
+    ],
+    "Score": 0
   },
   "YoutubeUrl": "Q4OE4hEm4Ik",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "10",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572459519607701525/2018-05-29_21-17-03.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

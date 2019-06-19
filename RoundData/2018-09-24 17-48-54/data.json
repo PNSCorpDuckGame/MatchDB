@@ -1,70 +1,68 @@
 {
-  "$id": "78",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "b5592a52-ca68-4cc1-94be-ccc9a9509aa1",
   "Name": "2018-09-24 17-48-54",
   "MatchName": "2018-09-24 17-44-06",
-  "DatabaseIndex": "2018-09-24 17-48-54",
   "Players": [
     {
-      "$id": "79",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "80",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "UserId": "76561198050165746",
-      "DatabaseIndex": "76561198050165746"
+      "UserId": "76561198050165746"
     },
     {
-      "$id": "81",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "UserId": "76561197993900183",
-      "DatabaseIndex": "76561197993900183"
+      "UserId": "76561197993900183"
     }
   ],
   "Teams": [
     {
-      "$id": "82",
       "HasHat": true,
       "HatName": "Wizards",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "81"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
       "Score": 2
     },
     {
-      "$id": "83",
       "HasHat": true,
       "HatName": "PONYCAP",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "80"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
       "Score": 1
     },
     {
-      "$id": "84",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "79"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 7
@@ -73,7 +71,18 @@
   "TimeEnded": "2018-09-24T17:49:06.977147+02:00",
   "TimeStarted": "2018-09-24T17:48:54.1737712+02:00",
   "Winner": {
-    "$ref": "83"
+    "HasHat": true,
+    "HatName": "PONYCAP",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 150809682318065664,
+        "Name": "Meepen",
+        "NickName": null,
+        "UserId": "76561198050165746"
+      }
+    ],
+    "Score": 1
   },
   "YoutubeUrl": "c_DuynZAi8o",
   "VideoType": 2,

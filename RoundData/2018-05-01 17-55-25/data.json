@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "65291800-0aac-4396-a37e-eef37782c765",
@@ -7,21 +6,18 @@
   "MatchName": null,
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "3",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
       "UserId": "76561197993900183"
     },
     {
-      "$id": "4",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 15
+      "Score": 15
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "CYCLOPS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "CYCLOPS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
-      "score": 8
+      "Score": 8
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 13
+      "Score": 13
     }
   ],
-  "TimeEnded": "2018-05-01T15:56:04.8639196+00:00",
-  "TimeStarted": "2018-05-01T15:55:25.4241716+00:00",
+  "TimeEnded": "2018-05-01T17:56:04.8639196+02:00",
+  "TimeStarted": "2018-05-01T17:55:25.4241716+02:00",
   "Winner": {
-    "$ref": "5"
+    "HasHat": true,
+    "HatName": "DUCKS",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 105698042438549504,
+        "Name": "Willox",
+        "NickName": null,
+        "UserId": "76561197998909316"
+      }
+    ],
+    "Score": 15
   },
   "YoutubeUrl": "OqyW54jyvhY",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572375940538302464/2018-05-01_17-55-25.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

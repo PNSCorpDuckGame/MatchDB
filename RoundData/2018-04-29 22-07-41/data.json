@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "9a460970-6c6d-4bbc-b3e6-72cee22792f6",
@@ -7,21 +6,18 @@
   "MatchName": "2018-04-29 22-02-45",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "3",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
       "UserId": "76561197999418456"
     },
     {
-      "$id": "4",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
@@ -30,52 +26,58 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 7
+      "Score": 7
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Player 2",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 2",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 2
+      "Score": 2
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 1
+      "Score": 1
     }
   ],
-  "TimeEnded": "2018-04-29T20:07:49.698668+00:00",
-  "TimeStarted": "2018-04-29T20:07:41.6886025+00:00",
+  "TimeEnded": "2018-04-29T22:07:49.698668+02:00",
+  "TimeStarted": "2018-04-29T22:07:41.6886025+02:00",
   "Winner": null,
   "YoutubeUrl": "7NFK7za-Dcg",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572373727044698122/2018-04-29_22-07-41.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

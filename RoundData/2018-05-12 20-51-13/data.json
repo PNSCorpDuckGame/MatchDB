@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "036b346a-cc72-4703-996f-b0e623cdb2dc",
@@ -7,21 +6,18 @@
   "MatchName": "2018-05-12 20-44-11",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "3",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "4",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 3
+      "Score": 3
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 4
+      "Score": 4
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "TRICORNE",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "TRICORNE",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
-      "score": 4
+      "Score": 4
     }
   ],
-  "TimeEnded": "2018-05-12T18:51:27.2004739+00:00",
-  "TimeStarted": "2018-05-12T18:51:13.8716305+00:00",
+  "TimeEnded": "2018-05-12T20:51:27.2004739+02:00",
+  "TimeStarted": "2018-05-12T20:51:13.8716305+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "TRICORNE",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 167252066773893120,
+        "Name": "stevie wonder",
+        "NickName": "Raptor",
+        "UserId": "76561197993900183"
+      }
+    ],
+    "Score": 4
   },
   "YoutubeUrl": "42U36w0EoIw",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572386997352792084/2018-05-12_20-51-13.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

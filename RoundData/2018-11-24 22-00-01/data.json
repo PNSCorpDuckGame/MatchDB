@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": true,
   "LevelName": "W",
@@ -7,46 +6,46 @@
   "MatchName": "2018-11-24 21-58-36",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "Team": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
-      "Team": null,
       "UserId": "76561198021148954"
     }
   ],
   "Teams": [
     {
-      "$id": "4",
-      "hasHat": true,
-      "hatName": "Chancy",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Chancy",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 2
+      "Score": 2
     },
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 0
+      "Score": 0
     }
   ],
   "TimeEnded": "2018-11-24T22:00:07.0471323+01:00",
@@ -54,5 +53,6 @@
   "Winner": null,
   "YoutubeUrl": null,
   "VideoType": 2,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

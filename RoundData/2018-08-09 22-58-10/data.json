@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "b7706cd6-64e9-4efb-9818-d57976c145cd",
@@ -7,21 +6,18 @@
   "MatchName": "2018-08-09 22-41-20",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 94866365525008384,
       "Name": "metaMan",
       "NickName": null,
       "UserId": "76561197999418456"
     },
     {
-      "$id": "4",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 16
+      "Score": 16
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Sombreros",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Sombreros",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 94866365525008384,
+          "Name": "metaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 17
+      "Score": 17
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "Chancy",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Chancy",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 11
+      "Score": 11
     }
   ],
-  "TimeEnded": "2018-08-09T20:58:25.0433206+00:00",
-  "TimeStarted": "2018-08-09T20:58:10.2562909+00:00",
+  "TimeEnded": "2018-08-09T22:58:25.0433206+02:00",
+  "TimeStarted": "2018-08-09T22:58:10.2562909+02:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "Sombreros",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 94866365525008384,
+        "Name": "metaMan",
+        "NickName": null,
+        "UserId": "76561197999418456"
+      }
+    ],
+    "Score": 17
   },
   "YoutubeUrl": "VCfsB80IWKQ",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572721430517514251/2018-08-09_22-58-10.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

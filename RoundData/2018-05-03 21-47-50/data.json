@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "6c2b8bf9-9d4f-4f87-bbfa-bdc2886a7d9e",
@@ -7,21 +6,18 @@
   "MatchName": "2018-05-03 21-42-25",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "3",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
       "UserId": "76561197999418456"
     },
     {
-      "$id": "4",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 1
+      "Score": 1
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Player 2",
-      "isCustomHat": true,
+      "HasHat": true,
+      "HatName": "Player 2",
+      "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
-      "score": 6
+      "Score": 6
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MOONWALK",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MOONWALK",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 6
+      "Score": 6
     }
   ],
-  "TimeEnded": "2018-05-03T19:48:13.202642+00:00",
-  "TimeStarted": "2018-05-03T19:47:50.3406254+00:00",
+  "TimeEnded": "2018-05-03T21:48:13.202642+02:00",
+  "TimeStarted": "2018-05-03T21:47:50.3406254+02:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "Player 2",
+    "IsCustomHat": true,
+    "Players": [
+      {
+        "DiscordId": 94866365525008384,
+        "Name": "MetaMan",
+        "NickName": null,
+        "UserId": "76561197999418456"
+      }
+    ],
+    "Score": 6
   },
   "YoutubeUrl": "U60f7YSYOuY",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572380709021548545/2018-05-03_21-47-50.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

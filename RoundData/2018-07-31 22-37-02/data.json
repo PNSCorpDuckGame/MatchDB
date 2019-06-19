@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "c6404434-a1f2-4696-9446-e80ff6f7fb7c",
@@ -7,21 +6,18 @@
   "MatchName": "2018-07-31 22-27-50",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
       "UserId": "76561197998909316"
     },
     {
-      "$id": "4",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 13
+      "Score": 13
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 6
+      "Score": 6
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "Burgers",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Burgers",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 10
+      "Score": 10
     }
   ],
-  "TimeEnded": "2018-07-31T20:37:13.2052124+00:00",
-  "TimeStarted": "2018-07-31T20:37:02.6988418+00:00",
+  "TimeEnded": "2018-07-31T22:37:13.2052124+02:00",
+  "TimeStarted": "2018-07-31T22:37:02.6988418+02:00",
   "Winner": {
-    "$ref": "7"
+    "HasHat": true,
+    "HatName": "Burgers",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 164075545968115713,
+        "Name": "zurator",
+        "NickName": null,
+        "UserId": "76561198021148954"
+      }
+    ],
+    "Score": 10
   },
   "YoutubeUrl": "oEFYSlSrD3E",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572696713178120192/2018-07-31_22-37-02.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

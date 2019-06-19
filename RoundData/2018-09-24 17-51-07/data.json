@@ -1,70 +1,68 @@
 {
-  "$id": "127",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "8ee06dbc-203f-472f-9e96-2b60bcb3bb57",
   "Name": "2018-09-24 17-51-07",
   "MatchName": "2018-09-24 17-44-06",
-  "DatabaseIndex": "2018-09-24 17-51-07",
   "Players": [
     {
-      "$id": "128",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "129",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "UserId": "76561198050165746",
-      "DatabaseIndex": "76561198050165746"
+      "UserId": "76561198050165746"
     },
     {
-      "$id": "130",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "UserId": "76561197993900183",
-      "DatabaseIndex": "76561197993900183"
+      "UserId": "76561197993900183"
     }
   ],
   "Teams": [
     {
-      "$id": "131",
       "HasHat": true,
       "HatName": "Wizards",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "130"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
       "Score": 5
     },
     {
-      "$id": "132",
       "HasHat": true,
       "HatName": "PONYCAP",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "129"
+          "DiscordId": 150809682318065664,
+          "Name": "Meepen",
+          "NickName": null,
+          "UserId": "76561198050165746"
         }
       ],
       "Score": 1
     },
     {
-      "$id": "133",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "128"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 10
@@ -73,7 +71,18 @@
   "TimeEnded": "2018-09-24T17:51:22.8254096+02:00",
   "TimeStarted": "2018-09-24T17:51:07.2148131+02:00",
   "Winner": {
-    "$ref": "131"
+    "HasHat": true,
+    "HatName": "Wizards",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 167252066773893120,
+        "Name": "stevie wonder",
+        "NickName": "Raptor",
+        "UserId": "76561197993900183"
+      }
+    ],
+    "Score": 5
   },
   "YoutubeUrl": "JzHzXGTK9-8",
   "VideoType": 2,

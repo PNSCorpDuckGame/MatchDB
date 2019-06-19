@@ -1,60 +1,48 @@
 {
-  "$id": "1553",
   "RecordingType": 1,
   "IsCustomLevel": true,
   "LevelName": "0e8b0a0d-f6dd-407e-8fa0-d3a1ae58beef",
   "Name": "2019-06-15 20-29-41",
   "MatchName": "2019-06-15 20-19-21",
-  "DatabaseIndex": "2019-06-15 20-29-41",
   "Players": [
     {
-      "$id": "1554",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "1555",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     }
   ],
   "Teams": [
     {
-      "$id": "1556",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "1557",
           "DiscordId": 105698042438549504,
           "Name": "Willox",
           "NickName": null,
-          "UserId": "76561197998909316",
-          "DatabaseIndex": "76561197998909316"
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 8
     },
     {
-      "$id": "1558",
       "HasHat": true,
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
         {
-          "$id": "1559",
           "DiscordId": 108174525576777728,
           "Name": "Jvs",
           "NickName": null,
-          "UserId": "76561197998646590",
-          "DatabaseIndex": "76561197998646590"
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 21
@@ -63,7 +51,18 @@
   "TimeEnded": "2019-06-15T20:29:50.868809+02:00",
   "TimeStarted": "2019-06-15T20:29:41.4545577+02:00",
   "Winner": {
-    "$ref": "1558"
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 108174525576777728,
+        "Name": "Jvs",
+        "NickName": null,
+        "UserId": "76561197998646590"
+      }
+    ],
+    "Score": 21
   },
   "YoutubeUrl": null,
   "VideoType": 2,

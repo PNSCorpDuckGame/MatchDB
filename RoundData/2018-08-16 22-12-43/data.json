@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "2c15b996-095c-4f87-8a43-cce7f2b78074",
@@ -7,21 +6,18 @@
   "MatchName": "2018-08-16 22-00-46",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
       "UserId": "76561197998646590"
     },
     {
-      "$id": "3",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
       "UserId": "76561198021148954"
     },
     {
-      "$id": "4",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
@@ -30,54 +26,71 @@
   ],
   "Teams": [
     {
-      "$id": "5",
-      "hasHat": true,
-      "hatName": "DUCKS",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "4"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
-      "score": 8
+      "Score": 8
     },
     {
-      "$id": "6",
-      "hasHat": true,
-      "hatName": "Chancy",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "Chancy",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 164075545968115713,
+          "Name": "zurator",
+          "NickName": null,
+          "UserId": "76561198021148954"
         }
       ],
-      "score": 14
+      "Score": 14
     },
     {
-      "$id": "7",
-      "hasHat": true,
-      "hatName": "MAJESTY",
-      "isCustomHat": false,
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
-      "score": 16
+      "Score": 16
     }
   ],
-  "TimeEnded": "2018-08-16T20:13:00.393058+00:00",
-  "TimeStarted": "2018-08-16T20:12:43.981271+00:00",
+  "TimeEnded": "2018-08-16T22:13:00.393058+02:00",
+  "TimeStarted": "2018-08-16T22:12:43.981271+02:00",
   "Winner": {
-    "$ref": "6"
+    "HasHat": true,
+    "HatName": "Chancy",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 164075545968115713,
+        "Name": "zurator",
+        "NickName": null,
+        "UserId": "76561198021148954"
+      }
+    ],
+    "Score": 14
   },
   "YoutubeUrl": "gCPJN0L0Mgo",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "8",
       "MirrorType": 1,
       "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572726240490946560/2018-08-16_22-12-43.mp4"
     }
-  ]
+  ],
+  "Tags": []
 }

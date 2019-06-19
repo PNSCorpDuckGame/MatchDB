@@ -1,7 +1,5 @@
 {
-  "$id": "19966",
   "Name": "GlobalData",
-  "DatabaseIndex": "GlobalData",
   "Matches": [
     "2018-04-28 19-54-17",
     "2018-04-29 22-02-45",
@@ -487,76 +485,58 @@
   ],
   "Players": [
     {
-      "$id": "19967",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     },
     {
-      "$id": "19968",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "19969",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "UserId": "76561197993900183",
-      "DatabaseIndex": "76561197993900183"
+      "UserId": "76561197993900183"
     },
     {
-      "$id": "19970",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "UserId": "76561197999418456",
-      "DatabaseIndex": "76561197999418456"
+      "UserId": "76561197999418456"
     },
     {
-      "$id": "19971",
       "DiscordId": 150809682318065664,
       "Name": "Meepen",
       "NickName": null,
-      "UserId": "76561198050165746",
-      "DatabaseIndex": "76561198050165746"
+      "UserId": "76561198050165746"
     },
     {
-      "$id": "19972",
       "DiscordId": 202474794095083524,
       "Name": "Twigletowns",
       "NickName": null,
-      "UserId": "76561198044887712",
-      "DatabaseIndex": "76561198044887712"
+      "UserId": "76561198044887712"
     },
     {
-      "$id": "19973",
       "DiscordId": 164075545968115713,
       "Name": "zurator",
       "NickName": null,
-      "UserId": "76561198021148954",
-      "DatabaseIndex": "76561198021148954"
+      "UserId": "76561198021148954"
     },
     {
-      "$id": "19974",
       "DiscordId": 0,
       "Name": "Player1",
       "NickName": null,
-      "UserId": "PLAYER1",
-      "DatabaseIndex": "PLAYER1"
+      "UserId": "PLAYER1"
     },
     {
-      "$id": "19975",
       "DiscordId": 0,
       "Name": "Player2",
       "NickName": null,
-      "UserId": "PLAYER2",
-      "DatabaseIndex": "PLAYER2"
+      "UserId": "PLAYER2"
     }
   ],
   "Rounds": [

@@ -1,90 +1,88 @@
 {
-  "$id": "11",
   "RecordingType": 1,
   "IsCustomLevel": false,
   "LevelName": "9bce7a89-9880-468a-a310-9c3656b14057",
   "Name": "2018-04-28 20-28-16",
   "MatchName": "2018-04-28 19-54-17",
-  "DatabaseIndex": "2018-04-28 20-28-16",
   "Players": [
     {
-      "$id": "12",
       "DiscordId": 105698042438549504,
       "Name": "Willox",
       "NickName": null,
-      "UserId": "76561197998909316",
-      "DatabaseIndex": "76561197998909316"
+      "UserId": "76561197998909316"
     },
     {
-      "$id": "13",
       "DiscordId": 108174525576777728,
       "Name": "Jvs",
       "NickName": null,
-      "UserId": "76561197998646590",
-      "DatabaseIndex": "76561197998646590"
+      "UserId": "76561197998646590"
     },
     {
-      "$id": "14",
       "DiscordId": 167252066773893120,
       "Name": "stevie wonder",
       "NickName": "Raptor",
-      "UserId": "76561197993900183",
-      "DatabaseIndex": "76561197993900183"
+      "UserId": "76561197993900183"
     },
     {
-      "$id": "15",
       "DiscordId": 94866365525008384,
       "Name": "MetaMan",
       "NickName": null,
-      "UserId": "76561197999418456",
-      "DatabaseIndex": "76561197999418456"
+      "UserId": "76561197999418456"
     }
   ],
   "Teams": [
     {
-      "$id": "16",
       "HasHat": true,
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "12"
+          "DiscordId": 105698042438549504,
+          "Name": "Willox",
+          "NickName": null,
+          "UserId": "76561197998909316"
         }
       ],
       "Score": 5
     },
     {
-      "$id": "17",
       "HasHat": true,
       "HatName": "Player 2",
       "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "13"
+          "DiscordId": 108174525576777728,
+          "Name": "Jvs",
+          "NickName": null,
+          "UserId": "76561197998646590"
         }
       ],
       "Score": 13
     },
     {
-      "$id": "18",
       "HasHat": true,
       "HatName": "CYCLOPS",
       "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "14"
+          "DiscordId": 167252066773893120,
+          "Name": "stevie wonder",
+          "NickName": "Raptor",
+          "UserId": "76561197993900183"
         }
       ],
       "Score": 7
     },
     {
-      "$id": "19",
       "HasHat": true,
       "HatName": "Player 4",
       "IsCustomHat": true,
       "Players": [
         {
-          "$ref": "15"
+          "DiscordId": 94866365525008384,
+          "Name": "MetaMan",
+          "NickName": null,
+          "UserId": "76561197999418456"
         }
       ],
       "Score": 8
@@ -93,16 +91,25 @@
   "TimeEnded": "2018-04-28T20:28:26.2698245+02:00",
   "TimeStarted": "2018-04-28T20:28:16.8634388+02:00",
   "Winner": {
-    "$ref": "16"
+    "HasHat": true,
+    "HatName": "DUCKS",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 105698042438549504,
+        "Name": "Willox",
+        "NickName": null,
+        "UserId": "76561197998909316"
+      }
+    ],
+    "Score": 5
   },
   "YoutubeUrl": "woAUOpG4My4",
   "VideoType": 2,
   "VideoMirrors": [
     {
-      "$id": "20",
       "MirrorType": 1,
-      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572373530100891650/2018-04-28_20-28-16.mp4",
-      "DatabaseIndex": "https://cdn.discordapp.com/attachments/570296205272285216/572373530100891650/2018-04-28_20-28-16.mp4"
+      "URL": "https://cdn.discordapp.com/attachments/570296205272285216/572373530100891650/2018-04-28_20-28-16.mp4"
     }
   ],
   "Tags": [

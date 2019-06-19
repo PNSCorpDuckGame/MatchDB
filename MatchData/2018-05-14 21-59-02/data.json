@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "Name": "2018-05-14 21-59-02",
   "Players": [],
   "Rounds": [
@@ -40,5 +39,6 @@
   "Winner": null,
   "YoutubeUrl": "PL13R2KKE1DTuInHX6EP_y8x60ckWIVJsr",
   "VideoType": 1,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }

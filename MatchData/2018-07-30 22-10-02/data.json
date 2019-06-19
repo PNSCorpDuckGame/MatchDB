@@ -1,21 +1,16 @@
 {
-  "$id": "1",
   "Name": "2018-07-30 22-10-02",
   "Players": [
     {
-      "$id": "2",
       "DiscordId": 0,
       "Name": "Player1",
       "NickName": null,
-      "Team": null,
       "UserId": "PLAYER1"
     },
     {
-      "$id": "3",
       "DiscordId": 0,
       "Name": "Player2",
       "NickName": null,
-      "Team": null,
       "UserId": "PLAYER2"
     }
   ],
@@ -24,36 +19,52 @@
   ],
   "Teams": [
     {
-      "$id": "4",
-      "hasHat": false,
-      "hatName": "Player 1",
-      "isCustomHat": false,
+      "HasHat": false,
+      "HatName": "Player 1",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "2"
+          "DiscordId": 0,
+          "Name": "Player1",
+          "NickName": null,
+          "UserId": "PLAYER1"
         }
       ],
-      "score": 0
+      "Score": 0
     },
     {
-      "$id": "5",
-      "hasHat": false,
-      "hatName": "Player 2",
-      "isCustomHat": false,
+      "HasHat": false,
+      "HatName": "Player 2",
+      "IsCustomHat": false,
       "Players": [
         {
-          "$ref": "3"
+          "DiscordId": 0,
+          "Name": "Player2",
+          "NickName": null,
+          "UserId": "PLAYER2"
         }
       ],
-      "score": 0
+      "Score": 0
     }
   ],
   "TimeEnded": "2018-07-30T22:10:06.4711262+02:00",
   "TimeStarted": "2018-07-30T22:10:02.8606969+02:00",
   "Winner": {
-    "$ref": "4"
+    "HasHat": false,
+    "HatName": "Player 1",
+    "IsCustomHat": false,
+    "Players": [
+      {
+        "DiscordId": 0,
+        "Name": "Player1",
+        "NickName": null,
+        "UserId": "PLAYER1"
+      }
+    ],
+    "Score": 0
   },
   "YoutubeUrl": "PL13R2KKE1DTvmDqJlqrCcC-YqhesseCBJ",
   "VideoType": 1,
-  "VideoMirrors": []
+  "VideoMirrors": [],
+  "Tags": []
 }
