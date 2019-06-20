@@ -1,5 +1,4 @@
 {
-  "$id": "1",
   "LevelName": "01dfb673-a19c-463e-a469-e0631b0fab2e",
   "FilePath": "C:/Users/Jvsth.000.000/OneDrive/Documents/DuckGame/Levels/DuckGame.LegalLevels/forest03.lev",
   "IsCustomMap": true,
@@ -8,6 +7,5 @@
   "Author": "superjoebob",
   "Tags": [
     "240 159 146 169"
-  ],
-  "DatabaseIndex": "01dfb673-a19c-463e-a469-e0631b0fab2e"
+  ]
 }
