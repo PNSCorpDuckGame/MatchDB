@@ -1,18 +1,8 @@
 {
   "Name": "2019-05-11 22-06-34",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 94866365525008384,
-      "Name": "MetaMan",
-      "NickName": null,
-      "UserId": "76561197999418456"
-    }
+    "76561197998646590",
+    "76561197999418456"
   ],
   "Rounds": [
     "2019-05-11 22-06-34",
@@ -52,12 +42,7 @@
       "HatName": "Sombreros",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 94866365525008384,
-          "Name": "MetaMan",
-          "NickName": null,
-          "UserId": "76561197999418456"
-        }
+        "76561197999418456"
       ],
       "Score": 5
     },
@@ -66,12 +51,7 @@
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 18
     }
@@ -83,12 +63,7 @@
     "HatName": "MAJESTY",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 108174525576777728,
-        "Name": "Jvs",
-        "NickName": null,
-        "UserId": "76561197998646590"
-      }
+      "76561197998646590"
     ],
     "Score": 18
   },

@@ -1,18 +1,8 @@
 {
   "Name": "2019-01-30 21-54-52",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 94866365525008384,
-      "Name": "MetaMan",
-      "NickName": null,
-      "UserId": "76561197999418456"
-    }
+    "76561197998646590",
+    "76561197999418456"
   ],
   "Rounds": [
     "2019-01-30 21-54-52",
@@ -52,12 +42,7 @@
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 16
     },
@@ -66,12 +51,7 @@
       "HatName": "MOONWALK",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 94866365525008384,
-          "Name": "MetaMan",
-          "NickName": null,
-          "UserId": "76561197999418456"
-        }
+        "76561197999418456"
       ],
       "Score": 5
     }
@@ -83,12 +63,7 @@
     "HatName": "MAJESTY",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 108174525576777728,
-        "Name": "Jvs",
-        "NickName": null,
-        "UserId": "76561197998646590"
-      }
+      "76561197998646590"
     ],
     "Score": 16
   },

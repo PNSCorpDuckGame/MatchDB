@@ -5,30 +5,10 @@
   "Name": "2019-06-07 20-24-44",
   "MatchName": "2019-06-07 20-24-01",
   "Players": [
-    {
-      "DiscordId": 0,
-      "Name": "Player1",
-      "NickName": null,
-      "UserId": "PLAYER1"
-    },
-    {
-      "DiscordId": 0,
-      "Name": "Player2",
-      "NickName": null,
-      "UserId": "PLAYER2"
-    },
-    {
-      "DiscordId": 0,
-      "Name": "Player3",
-      "NickName": null,
-      "UserId": "PLAYER3"
-    },
-    {
-      "DiscordId": 0,
-      "Name": "Player4",
-      "NickName": null,
-      "UserId": "PLAYER4"
-    }
+    "PLAYER1",
+    "PLAYER2",
+    "PLAYER3",
+    "PLAYER4"
   ],
   "Teams": [
     {
@@ -36,12 +16,7 @@
       "HatName": "Player 1",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 0,
-          "Name": "Player1",
-          "NickName": null,
-          "UserId": "PLAYER1"
-        }
+        "PLAYER1"
       ],
       "Score": 0
     },
@@ -50,12 +25,7 @@
       "HatName": "Player 2",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 0,
-          "Name": "Player2",
-          "NickName": null,
-          "UserId": "PLAYER2"
-        }
+        "PLAYER2"
       ],
       "Score": 0
     },
@@ -64,12 +34,7 @@
       "HatName": "Player 3",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 0,
-          "Name": "Player3",
-          "NickName": null,
-          "UserId": "PLAYER3"
-        }
+        "PLAYER3"
       ],
       "Score": 0
     },
@@ -78,12 +43,7 @@
       "HatName": "Player 4",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 0,
-          "Name": "Player4",
-          "NickName": null,
-          "UserId": "PLAYER4"
-        }
+        "PLAYER4"
       ],
       "Score": 0
     }

@@ -1,30 +1,10 @@
 {
   "Name": "2018-08-06 22-13-41",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 105698042438549504,
-      "Name": "Willox",
-      "NickName": null,
-      "UserId": "76561197998909316"
-    },
-    {
-      "DiscordId": 164075545968115713,
-      "Name": "zurator",
-      "NickName": null,
-      "UserId": "76561198021148954"
-    },
-    {
-      "DiscordId": 94866365525008384,
-      "Name": "metaMan",
-      "NickName": null,
-      "UserId": "76561197999418456"
-    }
+    "76561197998646590",
+    "76561197998909316",
+    "76561198021148954",
+    "76561197999418456"
   ],
   "Rounds": [
     "2018-08-06 22-13-43",
@@ -95,12 +75,7 @@
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 18
     },
@@ -109,12 +84,7 @@
       "HatName": "Player 2",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 105698042438549504,
-          "Name": "Willox",
-          "NickName": null,
-          "UserId": "76561197998909316"
-        }
+        "76561197998909316"
       ],
       "Score": 2
     },
@@ -123,12 +93,7 @@
       "HatName": "Burgers",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 164075545968115713,
-          "Name": "zurator",
-          "NickName": null,
-          "UserId": "76561198021148954"
-        }
+        "76561198021148954"
       ],
       "Score": 11
     },
@@ -137,12 +102,7 @@
       "HatName": "TWINTAIL",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 94866365525008384,
-          "Name": "metaMan",
-          "NickName": null,
-          "UserId": "76561197999418456"
-        }
+        "76561197999418456"
       ],
       "Score": 14
     }
@@ -154,12 +114,7 @@
     "HatName": "MAJESTY",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 108174525576777728,
-        "Name": "Jvs",
-        "NickName": null,
-        "UserId": "76561197998646590"
-      }
+      "76561197998646590"
     ],
     "Score": 18
   },

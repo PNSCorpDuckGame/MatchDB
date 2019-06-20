@@ -1,24 +1,9 @@
 {
   "Name": "2018-09-12 22-48-06",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 105698042438549504,
-      "Name": "Willox",
-      "NickName": null,
-      "UserId": "76561197998909316"
-    },
-    {
-      "DiscordId": 164075545968115713,
-      "Name": "zurator",
-      "NickName": null,
-      "UserId": "76561198021148954"
-    }
+    "76561197998646590",
+    "76561197998909316",
+    "76561198021148954"
   ],
   "Rounds": [
     "2018-09-12 22-48-06",
@@ -58,12 +43,7 @@
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 105698042438549504,
-          "Name": "Willox",
-          "NickName": null,
-          "UserId": "76561197998909316"
-        }
+        "76561197998909316"
       ],
       "Score": 6
     },
@@ -72,12 +52,7 @@
       "HatName": "Chancy",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 164075545968115713,
-          "Name": "zurator",
-          "NickName": null,
-          "UserId": "76561198021148954"
-        }
+        "76561198021148954"
       ],
       "Score": 8
     },
@@ -86,12 +61,7 @@
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 15
     }
@@ -103,12 +73,7 @@
     "HatName": "MAJESTY",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 108174525576777728,
-        "Name": "Jvs",
-        "NickName": null,
-        "UserId": "76561197998646590"
-      }
+      "76561197998646590"
     ],
     "Score": 15
   },

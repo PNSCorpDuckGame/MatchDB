@@ -1,24 +1,9 @@
 {
   "Name": "2018-10-24 13-24-00",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 167252066773893120,
-      "Name": "stevie wonder",
-      "NickName": "Raptor",
-      "UserId": "76561197993900183"
-    },
-    {
-      "DiscordId": 105698042438549504,
-      "Name": "Willox",
-      "NickName": null,
-      "UserId": "76561197998909316"
-    }
+    "76561197998646590",
+    "76561197993900183",
+    "76561197998909316"
   ],
   "Rounds": [
     "2018-10-24 13-24-02",
@@ -68,12 +53,7 @@
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 105698042438549504,
-          "Name": "Willox",
-          "NickName": null,
-          "UserId": "76561197998909316"
-        }
+        "76561197998909316"
       ],
       "Score": 7
     },
@@ -82,12 +62,7 @@
       "HatName": "Pilots",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 167252066773893120,
-          "Name": "stevie wonder",
-          "NickName": "Raptor",
-          "UserId": "76561197993900183"
-        }
+        "76561197993900183"
       ],
       "Score": 10
     },
@@ -96,12 +71,7 @@
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 20
     }
@@ -113,12 +83,7 @@
     "HatName": "MAJESTY",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 108174525576777728,
-        "Name": "Jvs",
-        "NickName": null,
-        "UserId": "76561197998646590"
-      }
+      "76561197998646590"
     ],
     "Score": 20
   },

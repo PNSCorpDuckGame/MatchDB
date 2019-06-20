@@ -1,30 +1,10 @@
 {
   "Name": "2018-07-02 23-24-43",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 105698042438549504,
-      "Name": "Willox",
-      "NickName": null,
-      "UserId": "76561197998909316"
-    },
-    {
-      "DiscordId": 202474794095083524,
-      "Name": "Twigletowns",
-      "NickName": null,
-      "UserId": "76561198044887712"
-    },
-    {
-      "DiscordId": 94866365525008384,
-      "Name": "metaMan",
-      "NickName": null,
-      "UserId": "76561197999418456"
-    }
+    "76561197998646590",
+    "76561197998909316",
+    "76561198044887712",
+    "76561197999418456"
   ],
   "Rounds": [
     "2018-07-02 23-24-45",
@@ -64,12 +44,7 @@
       "HatName": "MOONWALK",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 17
     },
@@ -78,12 +53,7 @@
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 105698042438549504,
-          "Name": "Willox",
-          "NickName": null,
-          "UserId": "76561197998909316"
-        }
+        "76561197998909316"
       ],
       "Score": 4
     },
@@ -92,12 +62,7 @@
       "HatName": "Agents",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 202474794095083524,
-          "Name": "Twigletowns",
-          "NickName": null,
-          "UserId": "76561198044887712"
-        }
+        "76561198044887712"
       ],
       "Score": 2
     },
@@ -106,12 +71,7 @@
       "HatName": "BIG ROBO",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 94866365525008384,
-          "Name": "metaMan",
-          "NickName": null,
-          "UserId": "76561197999418456"
-        }
+        "76561197999418456"
       ],
       "Score": 7
     }
@@ -123,12 +83,7 @@
     "HatName": "MOONWALK",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 108174525576777728,
-        "Name": "Jvs",
-        "NickName": null,
-        "UserId": "76561197998646590"
-      }
+      "76561197998646590"
     ],
     "Score": 17
   },

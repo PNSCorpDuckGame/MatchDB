@@ -5,24 +5,9 @@
   "Name": "2018-04-29 22-12-41",
   "MatchName": "2018-04-29 22-02-45",
   "Players": [
-    {
-      "DiscordId": 105698042438549504,
-      "Name": "Willox",
-      "NickName": null,
-      "UserId": "76561197998909316"
-    },
-    {
-      "DiscordId": 94866365525008384,
-      "Name": "MetaMan",
-      "NickName": null,
-      "UserId": "76561197999418456"
-    },
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    }
+    "76561197998909316",
+    "76561197999418456",
+    "76561197998646590"
   ],
   "Teams": [
     {
@@ -30,12 +15,7 @@
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 105698042438549504,
-          "Name": "Willox",
-          "NickName": null,
-          "UserId": "76561197998909316"
-        }
+        "76561197998909316"
       ],
       "Score": 10
     },
@@ -44,12 +24,7 @@
       "HatName": "Player 2",
       "IsCustomHat": true,
       "Players": [
-        {
-          "DiscordId": 94866365525008384,
-          "Name": "MetaMan",
-          "NickName": null,
-          "UserId": "76561197999418456"
-        }
+        "76561197999418456"
       ],
       "Score": 5
     },
@@ -58,12 +33,7 @@
       "HatName": "MOONWALK",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 7
     }
@@ -75,12 +45,7 @@
     "HatName": "DUCKS",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 105698042438549504,
-        "Name": "Willox",
-        "NickName": null,
-        "UserId": "76561197998909316"
-      }
+      "76561197998909316"
     ],
     "Score": 10
   },

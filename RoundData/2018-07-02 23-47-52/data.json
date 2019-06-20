@@ -5,30 +5,10 @@
   "Name": "2018-07-02 23-47-52",
   "MatchName": "2018-07-02 23-39-08",
   "Players": [
-    {
-      "DiscordId": 108174525576777728,
-      "Name": "Jvs",
-      "NickName": null,
-      "UserId": "76561197998646590"
-    },
-    {
-      "DiscordId": 202474794095083524,
-      "Name": "Twigletowns",
-      "NickName": null,
-      "UserId": "76561198044887712"
-    },
-    {
-      "DiscordId": 94866365525008384,
-      "Name": "metaMan",
-      "NickName": null,
-      "UserId": "76561197999418456"
-    },
-    {
-      "DiscordId": 105698042438549504,
-      "Name": "Willox",
-      "NickName": null,
-      "UserId": "76561197998909316"
-    }
+    "76561197998646590",
+    "76561198044887712",
+    "76561197999418456",
+    "76561197998909316"
   ],
   "Teams": [
     {
@@ -36,12 +16,7 @@
       "HatName": "MAJESTY",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 108174525576777728,
-          "Name": "Jvs",
-          "NickName": null,
-          "UserId": "76561197998646590"
-        }
+        "76561197998646590"
       ],
       "Score": 6
     },
@@ -50,12 +25,7 @@
       "HatName": "SWACK",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 202474794095083524,
-          "Name": "Twigletowns",
-          "NickName": null,
-          "UserId": "76561198044887712"
-        }
+        "76561198044887712"
       ],
       "Score": 0
     },
@@ -64,12 +34,7 @@
       "HatName": "BIG ROBO",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 94866365525008384,
-          "Name": "metaMan",
-          "NickName": null,
-          "UserId": "76561197999418456"
-        }
+        "76561197999418456"
       ],
       "Score": 9
     },
@@ -78,12 +43,7 @@
       "HatName": "DUCKS",
       "IsCustomHat": false,
       "Players": [
-        {
-          "DiscordId": 105698042438549504,
-          "Name": "Willox",
-          "NickName": null,
-          "UserId": "76561197998909316"
-        }
+        "76561197998909316"
       ],
       "Score": 5
     }
@@ -95,12 +55,7 @@
     "HatName": "BIG ROBO",
     "IsCustomHat": false,
     "Players": [
-      {
-        "DiscordId": 94866365525008384,
-        "Name": "metaMan",
-        "NickName": null,
-        "UserId": "76561197999418456"
-      }
+      "76561197999418456"
     ],
     "Score": 9
   },
