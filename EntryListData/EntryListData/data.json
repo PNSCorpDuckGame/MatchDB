@@ -4,6 +4,7 @@
     "MatchData",
     "RoundData",
     "LevelData",
-    "TagData"
+    "TagData",
+    "PlayerData"
   ]
 }
