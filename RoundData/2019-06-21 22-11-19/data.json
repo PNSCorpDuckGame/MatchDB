@@ -1,0 +1,46 @@
+{
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "7d4d8017-c553-4e90-870c-1f7e38b83ea8",
+  "Name": "2019-06-21 22-11-19",
+  "MatchName": "2019-06-21 22-04-23",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "Agents",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 9
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 12
+    }
+  ],
+  "TimeEnded": "2019-06-21T22:11:44.0796271+02:00",
+  "TimeStarted": "2019-06-21T22:11:19.2013717+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Agents",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 9
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
