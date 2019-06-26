@@ -1,0 +1,66 @@
+{
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "fc05f593-88f6-4233-8a73-d4c87a96e36e",
+  "Name": "2019-06-26 21-25-27",
+  "MatchName": "2019-06-26 21-17-58",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197998909316",
+    "76561198050165746"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 5
+    },
+    {
+      "HasHat": true,
+      "HatName": "astropal",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 6
+    },
+    {
+      "HasHat": true,
+      "HatName": "PONYCAP",
+      "IsCustomHat": false,
+      "Players": [
+        "76561198050165746"
+      ],
+      "Score": 3
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 5
+    }
+  ],
+  "TimeEnded": "2019-06-26T21:25:44.9018456+02:00",
+  "TimeStarted": "2019-06-26T21:25:27.9662969+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "astropal",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 6
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
