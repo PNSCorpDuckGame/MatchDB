@@ -8,49 +8,9 @@
     "76561197998646590",
     "76561197998909316",
     "76561198050165746",
-    "76561197999418456",
-    "76561197998646590",
-    "76561197998909316",
-    "76561198050165746",
     "76561197999418456"
   ],
   "Teams": [
-    {
-      "HasHat": true,
-      "HatName": "Player 4",
-      "IsCustomHat": true,
-      "Players": [
-        "76561197999418456"
-      ],
-      "Score": 2
-    },
-    {
-      "HasHat": true,
-      "HatName": "DUCKS",
-      "IsCustomHat": false,
-      "Players": [
-        "76561197998909316"
-      ],
-      "Score": 4
-    },
-    {
-      "HasHat": true,
-      "HatName": "Agents",
-      "IsCustomHat": false,
-      "Players": [
-        "76561198050165746"
-      ],
-      "Score": 7
-    },
-    {
-      "HasHat": true,
-      "HatName": "MAJESTY",
-      "IsCustomHat": false,
-      "Players": [
-        "76561197998646590"
-      ],
-      "Score": 7
-    },
     {
       "HasHat": true,
       "HatName": "Player 4",
@@ -95,7 +55,6 @@
     "HatName": "DUCKS",
     "IsCustomHat": false,
     "Players": [
-      "76561197998909316",
       "76561197998909316"
     ],
     "Score": 4
