@@ -1,0 +1,56 @@
+{
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "92b7b41b-e120-4f82-80aa-f44903d6ea41",
+  "Name": "2019-07-15 21-30-57",
+  "MatchName": "2019-07-15 21-29-27",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197998909316"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 2
+    },
+    {
+      "HasHat": true,
+      "HatName": "Divers",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 1
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 4
+    }
+  ],
+  "TimeEnded": "2019-07-15T21:31:10.5357776+02:00",
+  "TimeStarted": "2019-07-15T21:30:57.5390938+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "DUCKS",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197998909316"
+    ],
+    "Score": 2
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
