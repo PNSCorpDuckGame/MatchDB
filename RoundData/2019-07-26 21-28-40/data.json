@@ -1,0 +1,56 @@
+{
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "21d9fe66-69d7-49f7-873e-3b3dd7093a3e",
+  "Name": "2019-07-26 21-28-40",
+  "MatchName": "2019-07-26 21-21-24",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 7
+    },
+    {
+      "HasHat": true,
+      "HatName": "Turing",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 12
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 6
+    }
+  ],
+  "TimeEnded": "2019-07-26T21:28:41.8715874+02:00",
+  "TimeStarted": "2019-07-26T21:28:40.2930463+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Turing",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 12
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

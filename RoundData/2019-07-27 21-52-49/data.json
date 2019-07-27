@@ -1,0 +1,56 @@
+{
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "9126f60a-a2c0-4017-acf6-6e4aa1363117",
+  "Name": "2019-07-27 21-52-49",
+  "MatchName": "2019-07-27 21-40-36",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197998909316"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 10
+    },
+    {
+      "HasHat": true,
+      "HatName": "Cyborgs",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 14
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 11
+    }
+  ],
+  "TimeEnded": "2019-07-27T21:53:00.5479121+02:00",
+  "TimeStarted": "2019-07-27T21:52:49.1900558+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Cyborgs",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 14
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

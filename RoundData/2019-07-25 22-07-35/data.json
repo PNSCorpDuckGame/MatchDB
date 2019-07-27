@@ -1,0 +1,48 @@
+{
+  "RecordingType": 1,
+  "IsCustomLevel": true,
+  "LevelName": "7c9876ea-aa78-4223-9c8e-dcad9a7e6fea",
+  "Name": "2019-07-25 22-07-35",
+  "MatchName": "2019-07-25 22-07-03",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 0
+    },
+    {
+      "HasHat": true,
+      "HatName": "Pompadour",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 1
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 0
+    }
+  ],
+  "TimeEnded": "2019-07-25T22:07:57.4348176+02:00",
+  "TimeStarted": "2019-07-25T22:07:35.6753957+02:00",
+  "Winner": null,
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
