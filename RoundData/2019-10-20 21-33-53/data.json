@@ -1,0 +1,57 @@
+{
+  "RecordingType": 1,
+  "LevelName": "128b1c17-b144-4f74-9d7c-b548c0555c3c",
+  "Name": "2019-10-20 21-33-53",
+  "MatchName": "2019-10-20 21-24-41",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197993900183",
+    "76561198050165746"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "Jazzducks",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 4
+    },
+    {
+      "HasHat": true,
+      "HatName": "Witchtime",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 0
+    },
+    {
+      "HasHat": true,
+      "HatName": "Pumpkins",
+      "IsCustomHat": false,
+      "Players": [
+        "76561198050165746"
+      ],
+      "Score": 6
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 10
+    }
+  ],
+  "TimeEnded": "2019-10-20T21:34:06.4910893+02:00",
+  "TimeStarted": "2019-10-20T21:33:53.954751+02:00",
+  "Winner": null,
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

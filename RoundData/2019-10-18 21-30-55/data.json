@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "af7b8993-5dfe-44c3-853c-43885e23858e",
+  "Name": "2019-10-18 21-30-55",
+  "MatchName": "2019-10-18 21-20-07",
+  "Players": [
+    "76561197998646590",
+    "76561197993900183",
+    "76561197998909316"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 10
+    },
+    {
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 8
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 13
+    }
+  ],
+  "TimeEnded": "2019-10-18T21:31:38.9838061+02:00",
+  "TimeStarted": "2019-10-18T21:30:55.068551+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "DUCKS",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197998909316"
+    ],
+    "Score": 10
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
