@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "b16daf4e-c91e-42b6-be49-17bb37f459d2",
+  "Name": "2019-10-26 21-59-47",
+  "MatchName": "2019-10-26 21-53-49",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 5
+    },
+    {
+      "HasHat": true,
+      "HatName": "FUNNYMAN",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 5
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 10
+    }
+  ],
+  "TimeEnded": "2019-10-26T21:59:57.3825478+02:00",
+  "TimeStarted": "2019-10-26T21:59:47.5266017+02:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "FUNNYMAN",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 5
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
