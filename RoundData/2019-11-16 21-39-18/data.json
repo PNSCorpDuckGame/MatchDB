@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "2743923e-27ff-4491-968a-33957fd6c8bd",
+  "Name": "2019-11-16 21-39-18",
+  "MatchName": "2019-11-16 21-36-50",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 1
+    },
+    {
+      "HasHat": true,
+      "HatName": "Cyborgs",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 3
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 3
+    }
+  ],
+  "TimeEnded": "2019-11-16T21:39:33.4630789+01:00",
+  "TimeStarted": "2019-11-16T21:39:18.5516801+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Cyborgs",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 3
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

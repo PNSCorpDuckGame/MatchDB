@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "8ee06dbc-203f-472f-9e96-2b60bcb3bb57",
+  "Name": "2019-11-17 21-15-28",
+  "MatchName": "2019-11-17 21-06-07",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561198050165746"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 9
+    },
+    {
+      "HasHat": true,
+      "HatName": "Witchtime",
+      "IsCustomHat": false,
+      "Players": [
+        "76561198050165746"
+      ],
+      "Score": 7
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 9
+    }
+  ],
+  "TimeEnded": "2019-11-17T21:15:40.1737112+01:00",
+  "TimeStarted": "2019-11-17T21:15:28.3735588+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Witchtime",
+    "IsCustomHat": false,
+    "Players": [
+      "76561198050165746"
+    ],
+    "Score": 7
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

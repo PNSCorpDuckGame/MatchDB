@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "7729ab60-6cb2-431c-ad13-44d84edf799b",
+  "Name": "2019-11-19 21-30-48",
+  "MatchName": "2019-11-19 21-17-36",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197998909316"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 9
+    },
+    {
+      "HasHat": true,
+      "HatName": "Dinos",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 10
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 15
+    }
+  ],
+  "TimeEnded": "2019-11-19T21:31:08.8321349+01:00",
+  "TimeStarted": "2019-11-19T21:30:48.0954135+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Dinos",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 10
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
