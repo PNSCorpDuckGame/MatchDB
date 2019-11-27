@@ -1,0 +1,47 @@
+{
+  "RecordingType": 1,
+  "LevelName": "62e00a28-4ee4-416c-8307-06cd8f422cc8",
+  "Name": "2019-11-24 18-52-02",
+  "MatchName": "2019-11-24 18-40-01",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197993900183"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 11
+    },
+    {
+      "HasHat": true,
+      "HatName": "BRODUCK",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 5
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 13
+    }
+  ],
+  "TimeEnded": "2019-11-24T18:52:30.3675997+01:00",
+  "TimeStarted": "2019-11-24T18:52:02.9423826+01:00",
+  "Winner": null,
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
