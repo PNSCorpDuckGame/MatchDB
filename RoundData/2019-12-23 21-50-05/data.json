@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "b16daf4e-c91e-42b6-be49-17bb37f459d2",
+  "Name": "2019-12-23 21-50-05",
+  "MatchName": "2019-12-23 21-42-09",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197998909316"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "Sombreros",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 7
+    },
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 6
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 12
+    }
+  ],
+  "TimeEnded": "2019-12-23T21:50:20.585241+01:00",
+  "TimeStarted": "2019-12-23T21:50:05.8670035+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Sombreros",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 7
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

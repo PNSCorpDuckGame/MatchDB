@@ -1,0 +1,55 @@
+{
+  "RecordingType": 1,
+  "LevelName": "88b1e3e0-a093-43c1-9232-9cdee2890fa1",
+  "Name": "2019-12-05 22-49-54",
+  "MatchName": "2019-12-05 22-35-05",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 13
+    },
+    {
+      "HasHat": true,
+      "HatName": "brad",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 15
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 18
+    }
+  ],
+  "TimeEnded": "2019-12-05T22:50:12.0658671+01:00",
+  "TimeStarted": "2019-12-05T22:49:54.1811154+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197998646590"
+    ],
+    "Score": 18
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
