@@ -1,0 +1,65 @@
+{
+  "RecordingType": 1,
+  "LevelName": "8e838c74-b151-48b1-9b12-3c8ccc6c2e4d",
+  "Name": "2019-12-31 23-39-54",
+  "MatchName": "2019-12-31 23-26-22",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197993900183",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "CAPTAIN",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 5
+    },
+    {
+      "HasHat": true,
+      "HatName": "gents",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 12
+    },
+    {
+      "HasHat": true,
+      "HatName": "TRICORNE",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 6
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 14
+    }
+  ],
+  "TimeEnded": "2019-12-31T23:40:12.0215135+01:00",
+  "TimeStarted": "2019-12-31T23:39:54.5256542+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "gents",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 12
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
