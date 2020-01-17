@@ -1,0 +1,65 @@
+{
+  "RecordingType": 1,
+  "LevelName": "036a2542-89b2-4d44-a5e0-a927400ccbd2",
+  "Name": "2020-01-12 21-47-42",
+  "MatchName": "2020-01-12 21-33-14",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456",
+    "76561197993900183"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 11
+    },
+    {
+      "HasHat": true,
+      "HatName": "Cyborgs",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 9
+    },
+    {
+      "HasHat": true,
+      "HatName": "TRICORNE",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 2
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 15
+    }
+  ],
+  "TimeEnded": "2020-01-12T21:48:11.3063007+01:00",
+  "TimeStarted": "2020-01-12T21:47:42.4565963+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "MAJESTY",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197998646590"
+    ],
+    "Score": 15
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

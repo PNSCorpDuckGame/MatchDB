@@ -1,0 +1,65 @@
+{
+  "RecordingType": 1,
+  "LevelName": "2e3f4fb7-5ecc-4f27-b4d9-ac4079424b37",
+  "Name": "2020-01-15 21-16-30",
+  "MatchName": "2020-01-15 21-01-58",
+  "Players": [
+    "76561197998646590",
+    "76561197999418456",
+    "76561197998909316",
+    "76561197993900183"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 7
+    },
+    {
+      "HasHat": true,
+      "HatName": "Pilots",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 7
+    },
+    {
+      "HasHat": true,
+      "HatName": "Wizards",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 9
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 14
+    }
+  ],
+  "TimeEnded": "2020-01-15T21:16:36.8488642+01:00",
+  "TimeStarted": "2020-01-15T21:16:30.1053541+01:00",
+  "Winner": {
+    "HasHat": true,
+    "HatName": "Pilots",
+    "IsCustomHat": false,
+    "Players": [
+      "76561197999418456"
+    ],
+    "Score": 7
+  },
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}

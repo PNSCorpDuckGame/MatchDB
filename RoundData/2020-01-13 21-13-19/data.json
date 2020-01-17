@@ -1,0 +1,57 @@
+{
+  "RecordingType": 1,
+  "LevelName": "7a6568bc-1589-44a7-8683-cb123cfd9cd3",
+  "Name": "2020-01-13 21-13-19",
+  "MatchName": "2020-01-13 21-03-50",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456",
+    "76561197993900183"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 4
+    },
+    {
+      "HasHat": true,
+      "HatName": "Agents",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 6
+    },
+    {
+      "HasHat": true,
+      "HatName": "TWINTAIL",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197993900183"
+      ],
+      "Score": 5
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 10
+    }
+  ],
+  "TimeEnded": "2020-01-13T21:13:29.5012032+01:00",
+  "TimeStarted": "2020-01-13T21:13:19.7875984+01:00",
+  "Winner": null,
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
