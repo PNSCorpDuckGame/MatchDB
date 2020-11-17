@@ -1,0 +1,47 @@
+{
+  "RecordingType": 1,
+  "LevelName": "077d3f7c-47e4-490a-a9b8-e089089b17db",
+  "Name": "2020-11-16 21-07-37",
+  "MatchName": "2020-11-16 21-04-47",
+  "Players": [
+    "76561197998646590",
+    "76561197998909316",
+    "76561197999418456"
+  ],
+  "Teams": [
+    {
+      "HasHat": true,
+      "HatName": "DUCKS",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998909316"
+      ],
+      "Score": 0
+    },
+    {
+      "HasHat": true,
+      "HatName": "MAJESTY",
+      "IsCustomHat": false,
+      "Players": [
+        "76561197998646590"
+      ],
+      "Score": 4
+    },
+    {
+      "HasHat": true,
+      "HatName": "Tempered",
+      "IsCustomHat": true,
+      "Players": [
+        "76561197999418456"
+      ],
+      "Score": 4
+    }
+  ],
+  "TimeEnded": "2020-11-16T21:07:49.4419388+01:00",
+  "TimeStarted": "2020-11-16T21:07:37.7009738+01:00",
+  "Winner": null,
+  "YoutubeUrl": null,
+  "VideoType": 2,
+  "VideoMirrors": [],
+  "Tags": []
+}
