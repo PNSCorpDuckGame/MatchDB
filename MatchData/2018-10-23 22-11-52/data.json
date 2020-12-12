@@ -10,7 +10,8 @@
   "TimeStarted": "2018-10-23T22:11:52.0565853+02:00",
   "Winner": null,
   "YoutubeUrl": "",
-  "VideoType": 1,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:10:16.9543770",
   "Tags": []
 }
