@@ -1,6 +1,5 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": false,
   "LevelName": "8ee06dbc-203f-472f-9e96-2b60bcb3bb57",
   "Name": "2018-11-30 22-16-12",
   "MatchName": "2018-11-30 22-03-02",
@@ -42,7 +41,8 @@
   "TimeStarted": "2018-11-30T22:16:12.8259308+01:00",
   "Winner": null,
   "YoutubeUrl": null,
-  "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:11:50.3667365",
+  "VideoEndTime": "00:12:01.5290246",
   "Tags": []
 }
