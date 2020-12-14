@@ -1,6 +1,5 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": false,
   "LevelName": "7a6568bc-1589-44a7-8683-cb123cfd9cd3",
   "Name": "2019-01-18 21-14-11",
   "MatchName": "2019-01-18 21-04-14",
@@ -50,7 +49,8 @@
     "Score": 13
   },
   "YoutubeUrl": null,
-  "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:08:53.4458155",
+  "VideoEndTime": "00:09:02.2944122",
   "Tags": []
 }
