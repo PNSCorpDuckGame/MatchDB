@@ -1,6 +1,5 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": true,
   "LevelName": "d86c93e3-0d2e-46e6-85fd-776efd3717a9",
   "Name": "2019-08-04 20-54-42",
   "MatchName": "2019-08-04 20-52-20",
@@ -50,7 +49,8 @@
     "Score": 2
   },
   "YoutubeUrl": null,
-  "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:02:06.8339316",
+  "VideoEndTime": "00:02:20.1733251",
   "Tags": []
 }

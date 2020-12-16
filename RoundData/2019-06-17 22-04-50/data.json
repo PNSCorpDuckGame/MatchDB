@@ -1,6 +1,5 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": true,
   "LevelName": "b81232c6-9add-4f07-96ed-35a90c31de07",
   "Name": "2019-06-17 22-04-50",
   "MatchName": "2019-06-17 22-02-56",
@@ -42,7 +41,8 @@
   "TimeStarted": "2019-06-17T22:04:50.8525252+02:00",
   "Winner": null,
   "YoutubeUrl": null,
-  "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:01:44.4125103",
+  "VideoEndTime": "00:01:49.3376208",
   "Tags": []
 }

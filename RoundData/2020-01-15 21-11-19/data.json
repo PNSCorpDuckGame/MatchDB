@@ -51,7 +51,8 @@
   "TimeStarted": "2020-01-15T21:11:19.7982384+01:00",
   "Winner": null,
   "YoutubeUrl": null,
-  "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:08:14.0624654",
+  "VideoEndTime": "00:08:26.4682671",
   "Tags": []
 }

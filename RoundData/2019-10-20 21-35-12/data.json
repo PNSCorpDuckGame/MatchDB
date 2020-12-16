@@ -59,7 +59,8 @@
     "Score": 13
   },
   "YoutubeUrl": null,
-  "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoType": 3,
+  "VideoStartTime": "00:09:29.4733070",
+  "VideoEndTime": "00:09:42.8490656",
   "Tags": []
 }
