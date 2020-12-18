@@ -1,9 +1,9 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": false,
   "LevelName": "8ee06dbc-203f-472f-9e96-2b60bcb3bb57",
   "Name": "2018-10-01 18-37-11",
   "MatchName": "2018-10-01 18-37-10",
+  "DatabaseIndex": "2018-10-01 18-37-11",
   "Players": [
     "76561197998646590",
     "76561197998909316",
@@ -41,8 +41,9 @@
   "TimeEnded": "2018-10-01T18:37:12.207692+02:00",
   "TimeStarted": "2018-10-01T18:37:11.0876634+02:00",
   "Winner": null,
-  "YoutubeUrl": null,
+  "YoutubeUrl": "u3mDfD1AHVg",
   "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

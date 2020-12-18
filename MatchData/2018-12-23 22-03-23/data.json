@@ -1,5 +1,6 @@
 {
   "Name": "2018-12-23 22-03-23",
+  "DatabaseIndex": "2018-12-23 22-03-23",
   "Players": [],
   "Rounds": [
     "2018-12-23 22-03-23"
@@ -8,8 +9,9 @@
   "TimeEnded": "2018-12-23T22:03:39.5288468+01:00",
   "TimeStarted": "2018-12-23T22:03:23.1188202+01:00",
   "Winner": null,
-  "YoutubeUrl": "",
+  "YoutubeUrl": "PL13R2KKE1DTtnb7a3VM4yBabeTU8Diqpp",
   "VideoType": 1,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

@@ -1,5 +1,6 @@
 {
   "Name": "2018-11-18 21-50-50",
+  "DatabaseIndex": "2018-11-18 21-50-50",
   "Players": [],
   "Rounds": [
     "2018-11-18 21-50-51"
@@ -8,8 +9,9 @@
   "TimeEnded": "2018-11-18T21:51:12.1762377+01:00",
   "TimeStarted": "2018-11-18T21:50:50.4670619+01:00",
   "Winner": null,
-  "YoutubeUrl": "",
+  "YoutubeUrl": "PL13R2KKE1DTv2VVxsyohLyBfhUvPSw93-",
   "VideoType": 1,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

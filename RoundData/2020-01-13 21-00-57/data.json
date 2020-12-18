@@ -3,6 +3,7 @@
   "LevelName": "2126a2b9-0cd3-4765-bac6-17b93d2d3034",
   "Name": "2020-01-13 21-00-57",
   "MatchName": "2020-01-13 21-00-55",
+  "DatabaseIndex": "2020-01-13 21-00-57",
   "Players": [
     "76561197998646590",
     "76561197998909316",
@@ -50,8 +51,9 @@
   "TimeEnded": "2020-01-13T21:01:12.8598909+01:00",
   "TimeStarted": "2020-01-13T21:00:57.0718274+01:00",
   "Winner": null,
-  "YoutubeUrl": null,
+  "YoutubeUrl": "ZZHn52LjD6Y",
   "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

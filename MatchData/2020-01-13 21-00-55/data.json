@@ -1,5 +1,6 @@
 {
   "Name": "2020-01-13 21-00-55",
+  "DatabaseIndex": "2020-01-13 21-00-55",
   "Players": [],
   "Rounds": [
     "2020-01-13 21-00-57"
@@ -8,8 +9,9 @@
   "TimeEnded": "2020-01-13T21:01:15.7470161+01:00",
   "TimeStarted": "2020-01-13T21:00:55.6126399+01:00",
   "Winner": null,
-  "YoutubeUrl": "",
+  "YoutubeUrl": "PL13R2KKE1DTtJuXv19Ob0p9Xx92Ag_tMq",
   "VideoType": 1,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

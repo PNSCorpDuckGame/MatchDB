@@ -1,9 +1,9 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": false,
   "LevelName": "b0704fc1-60c6-41a7-9b97-995d9f5f8b55",
   "Name": "2018-09-25 22-14-13",
   "MatchName": "2018-09-25 22-03-27",
+  "DatabaseIndex": "2018-09-25 22-14-13",
   "Players": [
     "76561197998646590",
     "76561197998909316",
@@ -49,8 +49,9 @@
     ],
     "Score": 12
   },
-  "YoutubeUrl": null,
+  "YoutubeUrl": "hz01j1gIQpQ",
   "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

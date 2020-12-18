@@ -1,9 +1,9 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": false,
   "LevelName": "1e0079a0-d410-4097-bfb8-91599ec3631b",
   "Name": "2018-12-23 22-03-23",
   "MatchName": "2018-12-23 22-03-23",
+  "DatabaseIndex": "2018-12-23 22-03-23",
   "Players": [
     "76561197998646590",
     "76561198050165746",
@@ -41,8 +41,9 @@
   "TimeEnded": "2018-12-23T22:03:25.7399361+01:00",
   "TimeStarted": "2018-12-23T22:03:23.761127+01:00",
   "Winner": null,
-  "YoutubeUrl": null,
+  "YoutubeUrl": "EyM_nNdfv4M",
   "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

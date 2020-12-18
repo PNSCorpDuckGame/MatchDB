@@ -1,5 +1,6 @@
 {
   "Name": "2018-09-26 22-46-49",
+  "DatabaseIndex": "2018-09-26 22-46-49",
   "Players": [
     "76561197998646590",
     "76561198050165746",
@@ -48,8 +49,9 @@
     ],
     "Score": 0
   },
-  "YoutubeUrl": "",
+  "YoutubeUrl": "PL13R2KKE1DTtm2JGpfXQTRb9R0VfCkzcV",
   "VideoType": 1,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }

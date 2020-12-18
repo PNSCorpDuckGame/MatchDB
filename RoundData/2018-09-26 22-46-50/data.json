@@ -1,9 +1,9 @@
 {
   "RecordingType": 1,
-  "IsCustomLevel": false,
   "LevelName": "3af48c44-bb44-4885-9cf1-e36e56eed710",
   "Name": "2018-09-26 22-46-50",
   "MatchName": "2018-09-26 22-46-49",
+  "DatabaseIndex": "2018-09-26 22-46-50",
   "Players": [
     "76561197998646590",
     "76561198050165746",
@@ -41,8 +41,9 @@
   "TimeEnded": "2018-09-26T22:46:51.9964466+02:00",
   "TimeStarted": "2018-09-26T22:46:50.0162084+02:00",
   "Winner": null,
-  "YoutubeUrl": null,
+  "YoutubeUrl": "Jt3OElko7AY",
   "VideoType": 2,
-  "VideoMirrors": [],
+  "VideoStartTime": "00:00:00",
+  "VideoEndTime": "00:00:00",
   "Tags": []
 }
